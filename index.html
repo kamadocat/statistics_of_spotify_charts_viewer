@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>title (kali)</title>
+        <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+        <link rel="stylesheet" href="styles/style.css">
+    </head>
+    <body>
+        <h1>Spotifyチャートの統計情報Viewer</h1>
+        <div class="selectBoxes" id="buttonWrapper">
+            <ul>
+                <li><p>
+                チャートの日付: <input type="date" min="2022-02-22" name="playlistDate", id="playlistDate"></input>
+                </p></li>
+                <li><p>
+                メインチャート: <select name="mainChart" class="chartSelector" id="mainChart">
+                </select>
+                </p></li>
+                <li><p>
+                比較チャート: <select name="compChart" class="chartSelector" id="compChart">
+                </select>
+                </p></li>
+                <li><p>
+                統計情報選択: <select name="playlist2" size="1" id="statisticsType">
+                </select>
+                </p></li>
+            </ul>
+        </div>
+        <div id="chartWrapper">
+            <canvas id="myChart"></canvas>
+        </div>
+        <script src="scripts/setDate.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js"></script>
+        <script src="scripts/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,30 @@
+body h1 {
+    text-align: center;
+}
+
+.selectBoxes {
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.selectBoxes ul {
+    list-style: none;
+}
+
+.selectBoxes li {
+    margin: 10px 0;
+}
+
+#chartWrapper {
+    margin: 0 auto;
+    width: 60%;
+    /*
+    border: 3px solid rgba(20, 130, 120, 0.4);
+    */
+}
+
+select {
+    background-color: rgba(128, 128, 128, 0.3);
+    border: 1px grey solid;
+    border-radius: 4px;
+}
