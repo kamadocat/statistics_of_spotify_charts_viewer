@@ -1,9 +1,6 @@
 name: get spotify charts data
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: '0 1 * * *'
 
