@@ -21,4 +21,7 @@ jobs:
       - name: pip install packages
         run: pip3 install -r requirements.txt
       - name: run main.py
+        env:
+          SPOTIFY_API_CLIENT_ID: ${{ secrets.SPOTIFY_API_CLIENT_ID }}
+          SPOTIFY_API_CLIENT_SECRET: ${{ secrets.SPOTIFY_API_CLIENT_SECRET }}
         run: cd src && python3 main.py
