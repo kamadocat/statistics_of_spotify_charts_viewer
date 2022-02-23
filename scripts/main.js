@@ -194,7 +194,6 @@ function drawRadarChart(processedDataDict) {
 
 async function drawChart() {
     let date = document.getElementById("playlistDate").value;
-    date = ""; // [debug]
     if (date == "") {
         date = "latest";
     }
