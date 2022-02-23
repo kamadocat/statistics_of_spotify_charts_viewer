@@ -25,3 +25,13 @@ jobs:
           SPOTIFY_API_CLIENT_ID: ${{ secrets.SPOTIFY_API_CLIENT_ID }}
           SPOTIFY_API_CLIENT_SECRET: ${{ secrets.SPOTIFY_API_CLIENT_SECRET }}
         run: cd src && python3 main.py
+      - name: git push
+        env:
+          EMAIL_ADDR: ${{ secrets.EMAIL_ADDR }}
+          USERNAME: ${{ secrets.USERNAME }}
+        run: |
+          git config --global user.email $EMAIL_ADDR
+          git config --global user.name $USERNAME
+          git add .
+          git commit -m "[add]: add data by schedule-test workflow 'get spotify charts data'"
+          git push origin master
