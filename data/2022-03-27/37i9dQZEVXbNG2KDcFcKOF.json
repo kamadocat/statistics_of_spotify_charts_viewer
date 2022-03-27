@@ -1,115 +1,5 @@
 [
     {
-        "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI",
-        "id": "3IAfUEeaXRX9s9UdKOJrFI",
-        "uri": "spotify:track:3IAfUEeaXRX9s9UdKOJrFI",
-        "title": "Envolver",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-                },
-                "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
-                "id": "7FNnA9vBm6EKceENgCGRMb",
-                "name": "Anitta",
-                "type": "artist",
-                "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2739a508628257cebd4539116cc",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e029a508628257cebd4539116cc",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048519a508628257cebd4539116cc",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.813,
-            "energy": 0.733,
-            "key": 4,
-            "loudness": -5.417,
-            "mode": 0,
-            "speechiness": 0.0847,
-            "acousticness": 0.15,
-            "instrumentalness": 0.00186,
-            "liveness": 0.0909,
-            "valence": 0.397,
-            "tempo": 91.988,
-            "type": "audio_features",
-            "id": "3IAfUEeaXRX9s9UdKOJrFI",
-            "uri": "spotify:track:3IAfUEeaXRX9s9UdKOJrFI",
-            "track_href": "https://api.spotify.com/v1/tracks/3IAfUEeaXRX9s9UdKOJrFI",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IAfUEeaXRX9s9UdKOJrFI",
-            "duration_ms": 193806,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB",
-        "id": "2gpQi3hbcUAcEG8m2dlgfB",
-        "uri": "spotify:track:2gpQi3hbcUAcEG8m2dlgfB",
-        "title": "Plan A",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-                },
-                "href": "https://api.spotify.com/v1/artists/3vQ0GE3mI0dAaxIMYe5g7z",
-                "id": "3vQ0GE3mI0dAaxIMYe5g7z",
-                "name": "Paulo Londra",
-                "type": "artist",
-                "uri": "spotify:artist:3vQ0GE3mI0dAaxIMYe5g7z"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737e1179e64539bedc938933ef",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027e1179e64539bedc938933ef",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517e1179e64539bedc938933ef",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.583,
-            "energy": 0.834,
-            "key": 0,
-            "loudness": -4.875,
-            "mode": 1,
-            "speechiness": 0.0444,
-            "acousticness": 0.0495,
-            "instrumentalness": 0,
-            "liveness": 0.0658,
-            "valence": 0.557,
-            "tempo": 173.935,
-            "type": "audio_features",
-            "id": "2gpQi3hbcUAcEG8m2dlgfB",
-            "uri": "spotify:track:2gpQi3hbcUAcEG8m2dlgfB",
-            "track_href": "https://api.spotify.com/v1/tracks/2gpQi3hbcUAcEG8m2dlgfB",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2gpQi3hbcUAcEG8m2dlgfB",
-            "duration_ms": 178203,
-            "time_signature": 4
-        }
-    },
-    {
         "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx",
         "id": "02MWAaffLxlfxAUY7c5dvx",
         "uri": "spotify:track:02MWAaffLxlfxAUY7c5dvx",
@@ -230,6 +120,61 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI",
+        "id": "3IAfUEeaXRX9s9UdKOJrFI",
+        "uri": "spotify:track:3IAfUEeaXRX9s9UdKOJrFI",
+        "title": "Envolver",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+                },
+                "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+                "id": "7FNnA9vBm6EKceENgCGRMb",
+                "name": "Anitta",
+                "type": "artist",
+                "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739a508628257cebd4539116cc",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029a508628257cebd4539116cc",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519a508628257cebd4539116cc",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.813,
+            "energy": 0.733,
+            "key": 4,
+            "loudness": -5.417,
+            "mode": 0,
+            "speechiness": 0.0847,
+            "acousticness": 0.15,
+            "instrumentalness": 0.00186,
+            "liveness": 0.0909,
+            "valence": 0.397,
+            "tempo": 91.988,
+            "type": "audio_features",
+            "id": "3IAfUEeaXRX9s9UdKOJrFI",
+            "uri": "spotify:track:3IAfUEeaXRX9s9UdKOJrFI",
+            "track_href": "https://api.spotify.com/v1/tracks/3IAfUEeaXRX9s9UdKOJrFI",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IAfUEeaXRX9s9UdKOJrFI",
+            "duration_ms": 193806,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o",
         "id": "1HhNoOuqm1a5MXYEgAFl8o",
         "uri": "spotify:track:1HhNoOuqm1a5MXYEgAFl8o",
@@ -315,6 +260,61 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL",
+        "id": "4fouWK6XVHhzl78KzQ1UjL",
+        "uri": "spotify:track:4fouWK6XVHhzl78KzQ1UjL",
+        "title": "abcdefu",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+                },
+                "href": "https://api.spotify.com/v1/artists/2VSHKHBTiXWplO8lxcnUC9",
+                "id": "2VSHKHBTiXWplO8lxcnUC9",
+                "name": "GAYLE",
+                "type": "artist",
+                "uri": "spotify:artist:2VSHKHBTiXWplO8lxcnUC9"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732842f743ebd32235bceb43d3",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022842f743ebd32235bceb43d3",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512842f743ebd32235bceb43d3",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.695,
+            "energy": 0.54,
+            "key": 4,
+            "loudness": -5.692,
+            "mode": 1,
+            "speechiness": 0.0493,
+            "acousticness": 0.299,
+            "instrumentalness": 0,
+            "liveness": 0.367,
+            "valence": 0.415,
+            "tempo": 121.932,
+            "type": "audio_features",
+            "id": "4fouWK6XVHhzl78KzQ1UjL",
+            "uri": "spotify:track:4fouWK6XVHhzl78KzQ1UjL",
+            "track_href": "https://api.spotify.com/v1/tracks/4fouWK6XVHhzl78KzQ1UjL",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fouWK6XVHhzl78KzQ1UjL",
+            "duration_ms": 168602,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h",
         "id": "6JIC3hbC28JZKZ8AlAqX8h",
         "uri": "spotify:track:6JIC3hbC28JZKZ8AlAqX8h",
@@ -390,122 +390,67 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL",
-        "id": "4fouWK6XVHhzl78KzQ1UjL",
-        "uri": "spotify:track:4fouWK6XVHhzl78KzQ1UjL",
-        "title": "abcdefu",
+        "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs",
+        "id": "1ri9ZUkBJVFUdgwzCnfcYs",
+        "uri": "spotify:track:1ri9ZUkBJVFUdgwzCnfcYs",
+        "title": "MAMIII",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+                    "spotify": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
                 },
-                "href": "https://api.spotify.com/v1/artists/2VSHKHBTiXWplO8lxcnUC9",
-                "id": "2VSHKHBTiXWplO8lxcnUC9",
-                "name": "GAYLE",
+                "href": "https://api.spotify.com/v1/artists/4obzFoKoKRHIphyHzJ35G3",
+                "id": "4obzFoKoKRHIphyHzJ35G3",
+                "name": "Becky G",
                 "type": "artist",
-                "uri": "spotify:artist:2VSHKHBTiXWplO8lxcnUC9"
+                "uri": "spotify:artist:4obzFoKoKRHIphyHzJ35G3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                },
+                "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+                "id": "790FomKkXshlbRYZFtlgla",
+                "name": "KAROL G",
+                "type": "artist",
+                "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732842f743ebd32235bceb43d3",
+                "url": "https://i.scdn.co/image/ab67616d0000b27372babf690675fe969470e8ee",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e022842f743ebd32235bceb43d3",
+                "url": "https://i.scdn.co/image/ab67616d00001e0272babf690675fe969470e8ee",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048512842f743ebd32235bceb43d3",
+                "url": "https://i.scdn.co/image/ab67616d0000485172babf690675fe969470e8ee",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.695,
-            "energy": 0.54,
+            "danceability": 0.843,
+            "energy": 0.7,
             "key": 4,
-            "loudness": -5.692,
-            "mode": 1,
-            "speechiness": 0.0493,
-            "acousticness": 0.299,
+            "loudness": -3.563,
+            "mode": 0,
+            "speechiness": 0.0803,
+            "acousticness": 0.0934,
             "instrumentalness": 0,
-            "liveness": 0.367,
-            "valence": 0.415,
-            "tempo": 121.932,
+            "liveness": 0.14,
+            "valence": 0.899,
+            "tempo": 93.991,
             "type": "audio_features",
-            "id": "4fouWK6XVHhzl78KzQ1UjL",
-            "uri": "spotify:track:4fouWK6XVHhzl78KzQ1UjL",
-            "track_href": "https://api.spotify.com/v1/tracks/4fouWK6XVHhzl78KzQ1UjL",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fouWK6XVHhzl78KzQ1UjL",
-            "duration_ms": 168602,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof",
-        "id": "48AJSd42lXpicsGqcgopof",
-        "uri": "spotify:track:48AJSd42lXpicsGqcgopof",
-        "title": "X \u00daLTIMA VEZ",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-                },
-                "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
-                "id": "4VMYDCV2IEDYJArk749S6m",
-                "name": "Daddy Yankee",
-                "type": "artist",
-                "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-                },
-                "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
-                "id": "4q3ewBCX7sLwd24euuV69X",
-                "name": "Bad Bunny",
-                "type": "artist",
-                "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27342b84b2b0aa47bc162b29522",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0242b84b2b0aa47bc162b29522",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485142b84b2b0aa47bc162b29522",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.812,
-            "energy": 0.855,
-            "key": 7,
-            "loudness": -3.725,
-            "mode": 1,
-            "speechiness": 0.0554,
-            "acousticness": 0.0789,
-            "instrumentalness": 0.000167,
-            "liveness": 0.108,
-            "valence": 0.573,
-            "tempo": 90.04,
-            "type": "audio_features",
-            "id": "48AJSd42lXpicsGqcgopof",
-            "uri": "spotify:track:48AJSd42lXpicsGqcgopof",
-            "track_href": "https://api.spotify.com/v1/tracks/48AJSd42lXpicsGqcgopof",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/48AJSd42lXpicsGqcgopof",
-            "duration_ms": 192477,
+            "id": "1ri9ZUkBJVFUdgwzCnfcYs",
+            "uri": "spotify:track:1ri9ZUkBJVFUdgwzCnfcYs",
+            "track_href": "https://api.spotify.com/v1/tracks/1ri9ZUkBJVFUdgwzCnfcYs",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ri9ZUkBJVFUdgwzCnfcYs",
+            "duration_ms": 226088,
             "time_signature": 4
         }
     },
@@ -575,71 +520,6 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs",
-        "id": "1ri9ZUkBJVFUdgwzCnfcYs",
-        "uri": "spotify:track:1ri9ZUkBJVFUdgwzCnfcYs",
-        "title": "MAMIII",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-                },
-                "href": "https://api.spotify.com/v1/artists/4obzFoKoKRHIphyHzJ35G3",
-                "id": "4obzFoKoKRHIphyHzJ35G3",
-                "name": "Becky G",
-                "type": "artist",
-                "uri": "spotify:artist:4obzFoKoKRHIphyHzJ35G3"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-                },
-                "href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
-                "id": "790FomKkXshlbRYZFtlgla",
-                "name": "KAROL G",
-                "type": "artist",
-                "uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27372babf690675fe969470e8ee",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0272babf690675fe969470e8ee",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485172babf690675fe969470e8ee",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.843,
-            "energy": 0.7,
-            "key": 4,
-            "loudness": -3.563,
-            "mode": 0,
-            "speechiness": 0.0803,
-            "acousticness": 0.0934,
-            "instrumentalness": 0,
-            "liveness": 0.14,
-            "valence": 0.899,
-            "tempo": 93.991,
-            "type": "audio_features",
-            "id": "1ri9ZUkBJVFUdgwzCnfcYs",
-            "uri": "spotify:track:1ri9ZUkBJVFUdgwzCnfcYs",
-            "track_href": "https://api.spotify.com/v1/tracks/1ri9ZUkBJVFUdgwzCnfcYs",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ri9ZUkBJVFUdgwzCnfcYs",
-            "duration_ms": 226088,
-            "time_signature": 4
-        }
-    },
-    {
         "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p",
         "id": "6mmPpaltUZK7xjNlBPQQ0p",
         "uri": "spotify:track:6mmPpaltUZK7xjNlBPQQ0p",
@@ -701,61 +581,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/6mmPpaltUZK7xjNlBPQQ0p",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/6mmPpaltUZK7xjNlBPQQ0p",
             "duration_ms": 224997,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G",
-        "id": "6I3mqTwhRpn34SLVafSH7G",
-        "uri": "spotify:track:6I3mqTwhRpn34SLVafSH7G",
-        "title": "Ghost",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-                },
-                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
-                "id": "1uNFoZAHBGtllmzznpCI3s",
-                "name": "Justin Bieber",
-                "type": "artist",
-                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.601,
-            "energy": 0.741,
-            "key": 2,
-            "loudness": -5.569,
-            "mode": 1,
-            "speechiness": 0.0478,
-            "acousticness": 0.185,
-            "instrumentalness": 2.91e-05,
-            "liveness": 0.415,
-            "valence": 0.441,
-            "tempo": 153.96,
-            "type": "audio_features",
-            "id": "6I3mqTwhRpn34SLVafSH7G",
-            "uri": "spotify:track:6I3mqTwhRpn34SLVafSH7G",
-            "track_href": "https://api.spotify.com/v1/tracks/6I3mqTwhRpn34SLVafSH7G",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6I3mqTwhRpn34SLVafSH7G",
-            "duration_ms": 153190,
             "time_signature": 4
         }
     },
@@ -870,6 +695,116 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds",
+        "id": "46IZ0fSY2mpAiktS3KOqds",
+        "uri": "spotify:track:46IZ0fSY2mpAiktS3KOqds",
+        "title": "Easy On Me",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+                },
+                "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+                "id": "4dpARuHxo51G3z768sgnrY",
+                "name": "Adele",
+                "type": "artist",
+                "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c6b577e4c4a6d326354a89f7",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c6b577e4c4a6d326354a89f7",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.604,
+            "energy": 0.366,
+            "key": 5,
+            "loudness": -7.519,
+            "mode": 1,
+            "speechiness": 0.0282,
+            "acousticness": 0.578,
+            "instrumentalness": 0,
+            "liveness": 0.133,
+            "valence": 0.13,
+            "tempo": 141.981,
+            "type": "audio_features",
+            "id": "46IZ0fSY2mpAiktS3KOqds",
+            "uri": "spotify:track:46IZ0fSY2mpAiktS3KOqds",
+            "track_href": "https://api.spotify.com/v1/tracks/46IZ0fSY2mpAiktS3KOqds",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/46IZ0fSY2mpAiktS3KOqds",
+            "duration_ms": 224695,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G",
+        "id": "6I3mqTwhRpn34SLVafSH7G",
+        "uri": "spotify:track:6I3mqTwhRpn34SLVafSH7G",
+        "title": "Ghost",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+                "id": "1uNFoZAHBGtllmzznpCI3s",
+                "name": "Justin Bieber",
+                "type": "artist",
+                "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.601,
+            "energy": 0.741,
+            "key": 2,
+            "loudness": -5.569,
+            "mode": 1,
+            "speechiness": 0.0478,
+            "acousticness": 0.185,
+            "instrumentalness": 2.91e-05,
+            "liveness": 0.415,
+            "valence": 0.441,
+            "tempo": 153.96,
+            "type": "audio_features",
+            "id": "6I3mqTwhRpn34SLVafSH7G",
+            "uri": "spotify:track:6I3mqTwhRpn34SLVafSH7G",
+            "track_href": "https://api.spotify.com/v1/tracks/6I3mqTwhRpn34SLVafSH7G",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6I3mqTwhRpn34SLVafSH7G",
+            "duration_ms": 153190,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1",
         "id": "0QBzMgT7NIeoCYy3sJCof1",
         "uri": "spotify:track:0QBzMgT7NIeoCYy3sJCof1",
@@ -935,6 +870,61 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly",
+        "id": "58HvfVOeJY7lUuCqF0m3ly",
+        "uri": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
+        "title": "MIDDLE OF THE NIGHT",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+                },
+                "href": "https://api.spotify.com/v1/artists/67MNhiAICFY6Pwc2YxCO0K",
+                "id": "67MNhiAICFY6Pwc2YxCO0K",
+                "name": "Elley Duh\u00e9",
+                "type": "artist",
+                "uri": "spotify:artist:67MNhiAICFY6Pwc2YxCO0K"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0253a2e11c1bde700722fecd2e",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485153a2e11c1bde700722fecd2e",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.41,
+            "energy": 0.611,
+            "key": 4,
+            "loudness": -8.271,
+            "mode": 0,
+            "speechiness": 0.0467,
+            "acousticness": 0.0228,
+            "instrumentalness": 0,
+            "liveness": 0.116,
+            "valence": 0.0899,
+            "tempo": 185.727,
+            "type": "audio_features",
+            "id": "58HvfVOeJY7lUuCqF0m3ly",
+            "uri": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
+            "track_href": "https://api.spotify.com/v1/tracks/58HvfVOeJY7lUuCqF0m3ly",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/58HvfVOeJY7lUuCqF0m3ly",
+            "duration_ms": 184448,
+            "time_signature": 3
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6",
         "id": "1O2pcBJGej0pmH2Y9XZMs6",
         "uri": "spotify:track:1O2pcBJGej0pmH2Y9XZMs6",
@@ -990,113 +980,58 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds",
-        "id": "46IZ0fSY2mpAiktS3KOqds",
-        "uri": "spotify:track:46IZ0fSY2mpAiktS3KOqds",
-        "title": "Easy On Me",
+        "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO",
+        "id": "0e8nrvls4Qqv5Rfa2UhqmO",
+        "uri": "spotify:track:0e8nrvls4Qqv5Rfa2UhqmO",
+        "title": "THATS WHAT I WANT",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+                    "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
                 },
-                "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
-                "id": "4dpARuHxo51G3z768sgnrY",
-                "name": "Adele",
+                "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+                "id": "7jVv8c5Fj3E9VhNjxT4snq",
+                "name": "Lil Nas X",
                 "type": "artist",
-                "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+                "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+                "url": "https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c6b577e4c4a6d326354a89f7",
+                "url": "https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c6b577e4c4a6d326354a89f7",
+                "url": "https://i.scdn.co/image/ab67616d00004851be82673b5f79d9658ec0a9fd",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.604,
-            "energy": 0.366,
-            "key": 5,
-            "loudness": -7.519,
-            "mode": 1,
-            "speechiness": 0.0282,
-            "acousticness": 0.578,
-            "instrumentalness": 0,
-            "liveness": 0.133,
-            "valence": 0.13,
-            "tempo": 141.981,
-            "type": "audio_features",
-            "id": "46IZ0fSY2mpAiktS3KOqds",
-            "uri": "spotify:track:46IZ0fSY2mpAiktS3KOqds",
-            "track_href": "https://api.spotify.com/v1/tracks/46IZ0fSY2mpAiktS3KOqds",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/46IZ0fSY2mpAiktS3KOqds",
-            "duration_ms": 224695,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly",
-        "id": "58HvfVOeJY7lUuCqF0m3ly",
-        "uri": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
-        "title": "MIDDLE OF THE NIGHT",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-                },
-                "href": "https://api.spotify.com/v1/artists/67MNhiAICFY6Pwc2YxCO0K",
-                "id": "67MNhiAICFY6Pwc2YxCO0K",
-                "name": "Elley Duh\u00e9",
-                "type": "artist",
-                "uri": "spotify:artist:67MNhiAICFY6Pwc2YxCO0K"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0253a2e11c1bde700722fecd2e",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485153a2e11c1bde700722fecd2e",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.41,
-            "energy": 0.611,
-            "key": 4,
-            "loudness": -8.271,
+            "danceability": 0.737,
+            "energy": 0.846,
+            "key": 1,
+            "loudness": -4.51,
             "mode": 0,
-            "speechiness": 0.0467,
-            "acousticness": 0.0228,
+            "speechiness": 0.22,
+            "acousticness": 0.00614,
             "instrumentalness": 0,
-            "liveness": 0.116,
-            "valence": 0.0899,
-            "tempo": 185.727,
+            "liveness": 0.0486,
+            "valence": 0.546,
+            "tempo": 87.981,
             "type": "audio_features",
-            "id": "58HvfVOeJY7lUuCqF0m3ly",
-            "uri": "spotify:track:58HvfVOeJY7lUuCqF0m3ly",
-            "track_href": "https://api.spotify.com/v1/tracks/58HvfVOeJY7lUuCqF0m3ly",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/58HvfVOeJY7lUuCqF0m3ly",
-            "duration_ms": 184448,
-            "time_signature": 3
+            "id": "0e8nrvls4Qqv5Rfa2UhqmO",
+            "uri": "spotify:track:0e8nrvls4Qqv5Rfa2UhqmO",
+            "track_href": "https://api.spotify.com/v1/tracks/0e8nrvls4Qqv5Rfa2UhqmO",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0e8nrvls4Qqv5Rfa2UhqmO",
+            "duration_ms": 143901,
+            "time_signature": 4
         }
     },
     {
@@ -1165,57 +1100,167 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO",
-        "id": "0e8nrvls4Qqv5Rfa2UhqmO",
-        "uri": "spotify:track:0e8nrvls4Qqv5Rfa2UhqmO",
-        "title": "THATS WHAT I WANT",
+        "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj",
+        "id": "59CfNbkERJ3NoTXDvoURjj",
+        "uri": "spotify:track:59CfNbkERJ3NoTXDvoURjj",
+        "title": "Boyfriend",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+                    "spotify": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
                 },
-                "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
-                "id": "7jVv8c5Fj3E9VhNjxT4snq",
-                "name": "Lil Nas X",
+                "href": "https://api.spotify.com/v1/artists/2W8yFh0Ga6Yf3jiayVxwkE",
+                "id": "2W8yFh0Ga6Yf3jiayVxwkE",
+                "name": "Dove Cameron",
                 "type": "artist",
-                "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+                "uri": "spotify:artist:2W8yFh0Ga6Yf3jiayVxwkE"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd",
+                "url": "https://i.scdn.co/image/ab67616d0000b2730397f50cb9dc5393db5d08bc",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd",
+                "url": "https://i.scdn.co/image/ab67616d00001e020397f50cb9dc5393db5d08bc",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851be82673b5f79d9658ec0a9fd",
+                "url": "https://i.scdn.co/image/ab67616d000048510397f50cb9dc5393db5d08bc",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.737,
-            "energy": 0.846,
-            "key": 1,
-            "loudness": -4.51,
+            "danceability": 0.345,
+            "energy": 0.612,
+            "key": 7,
+            "loudness": -6.543,
             "mode": 0,
-            "speechiness": 0.22,
-            "acousticness": 0.00614,
+            "speechiness": 0.0608,
+            "acousticness": 0.232,
             "instrumentalness": 0,
-            "liveness": 0.0486,
-            "valence": 0.546,
-            "tempo": 87.981,
+            "liveness": 0.194,
+            "valence": 0.232,
+            "tempo": 179.773,
             "type": "audio_features",
-            "id": "0e8nrvls4Qqv5Rfa2UhqmO",
-            "uri": "spotify:track:0e8nrvls4Qqv5Rfa2UhqmO",
-            "track_href": "https://api.spotify.com/v1/tracks/0e8nrvls4Qqv5Rfa2UhqmO",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0e8nrvls4Qqv5Rfa2UhqmO",
-            "duration_ms": 143901,
+            "id": "59CfNbkERJ3NoTXDvoURjj",
+            "uri": "spotify:track:59CfNbkERJ3NoTXDvoURjj",
+            "track_href": "https://api.spotify.com/v1/tracks/59CfNbkERJ3NoTXDvoURjj",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/59CfNbkERJ3NoTXDvoURjj",
+            "duration_ms": 153000,
+            "time_signature": 3
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d",
+        "id": "3rmo8F54jFF8OgYsqTxm5d",
+        "uri": "spotify:track:3rmo8F54jFF8OgYsqTxm5d",
+        "title": "Bad Habits",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                },
+                "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                "name": "Ed Sheeran",
+                "type": "artist",
+                "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ef24c3fdbf856340d55cfeb2",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ef24c3fdbf856340d55cfeb2",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.807,
+            "energy": 0.893,
+            "key": 11,
+            "loudness": -3.745,
+            "mode": 0,
+            "speechiness": 0.0347,
+            "acousticness": 0.0451,
+            "instrumentalness": 2.79e-05,
+            "liveness": 0.366,
+            "valence": 0.537,
+            "tempo": 126.011,
+            "type": "audio_features",
+            "id": "3rmo8F54jFF8OgYsqTxm5d",
+            "uri": "spotify:track:3rmo8F54jFF8OgYsqTxm5d",
+            "track_href": "https://api.spotify.com/v1/tracks/3rmo8F54jFF8OgYsqTxm5d",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3rmo8F54jFF8OgYsqTxm5d",
+            "duration_ms": 230747,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK",
+        "id": "1SOClUWhOi8vHZYMz3GluK",
+        "uri": "spotify:track:1SOClUWhOi8vHZYMz3GluK",
+        "title": "Infinity",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+                },
+                "href": "https://api.spotify.com/v1/artists/6QrQ7OrISRYIfS5mtacaw2",
+                "id": "6QrQ7OrISRYIfS5mtacaw2",
+                "name": "Jaymes Young",
+                "type": "artist",
+                "uri": "spotify:artist:6QrQ7OrISRYIfS5mtacaw2"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a9897f65d1ead1be10a51e3f",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a9897f65d1ead1be10a51e3f",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.671,
+            "energy": 0.673,
+            "key": 11,
+            "loudness": -6.941,
+            "mode": 0,
+            "speechiness": 0.0444,
+            "acousticness": 0.148,
+            "instrumentalness": 5.29e-05,
+            "liveness": 0.304,
+            "valence": 0.494,
+            "tempo": 121.963,
+            "type": "audio_features",
+            "id": "1SOClUWhOi8vHZYMz3GluK",
+            "uri": "spotify:track:1SOClUWhOi8vHZYMz3GluK",
+            "track_href": "https://api.spotify.com/v1/tracks/1SOClUWhOi8vHZYMz3GluK",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SOClUWhOi8vHZYMz3GluK",
+            "duration_ms": 237720,
             "time_signature": 4
         }
     },
@@ -1271,61 +1316,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/2B4GHvToeLTOBB4QLzW3Ni",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/2B4GHvToeLTOBB4QLzW3Ni",
             "duration_ms": 287120,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d",
-        "id": "3rmo8F54jFF8OgYsqTxm5d",
-        "uri": "spotify:track:3rmo8F54jFF8OgYsqTxm5d",
-        "title": "Bad Habits",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-                },
-                "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
-                "id": "6eUKZXaKkcviH0Ku9w2n3V",
-                "name": "Ed Sheeran",
-                "type": "artist",
-                "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ef24c3fdbf856340d55cfeb2",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ef24c3fdbf856340d55cfeb2",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.807,
-            "energy": 0.893,
-            "key": 11,
-            "loudness": -3.745,
-            "mode": 0,
-            "speechiness": 0.0347,
-            "acousticness": 0.0451,
-            "instrumentalness": 2.79e-05,
-            "liveness": 0.366,
-            "valence": 0.537,
-            "tempo": 126.011,
-            "type": "audio_features",
-            "id": "3rmo8F54jFF8OgYsqTxm5d",
-            "uri": "spotify:track:3rmo8F54jFF8OgYsqTxm5d",
-            "track_href": "https://api.spotify.com/v1/tracks/3rmo8F54jFF8OgYsqTxm5d",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3rmo8F54jFF8OgYsqTxm5d",
-            "duration_ms": 230747,
             "time_signature": 4
         }
     },
@@ -1391,116 +1381,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/18asYwWugKjjsihZ0YvRxO",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/18asYwWugKjjsihZ0YvRxO",
             "duration_ms": 164819,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj",
-        "id": "59CfNbkERJ3NoTXDvoURjj",
-        "uri": "spotify:track:59CfNbkERJ3NoTXDvoURjj",
-        "title": "Boyfriend",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-                },
-                "href": "https://api.spotify.com/v1/artists/2W8yFh0Ga6Yf3jiayVxwkE",
-                "id": "2W8yFh0Ga6Yf3jiayVxwkE",
-                "name": "Dove Cameron",
-                "type": "artist",
-                "uri": "spotify:artist:2W8yFh0Ga6Yf3jiayVxwkE"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2730397f50cb9dc5393db5d08bc",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e020397f50cb9dc5393db5d08bc",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048510397f50cb9dc5393db5d08bc",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.345,
-            "energy": 0.612,
-            "key": 7,
-            "loudness": -6.543,
-            "mode": 0,
-            "speechiness": 0.0608,
-            "acousticness": 0.232,
-            "instrumentalness": 0,
-            "liveness": 0.194,
-            "valence": 0.232,
-            "tempo": 179.773,
-            "type": "audio_features",
-            "id": "59CfNbkERJ3NoTXDvoURjj",
-            "uri": "spotify:track:59CfNbkERJ3NoTXDvoURjj",
-            "track_href": "https://api.spotify.com/v1/tracks/59CfNbkERJ3NoTXDvoURjj",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/59CfNbkERJ3NoTXDvoURjj",
-            "duration_ms": 153000,
-            "time_signature": 3
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK",
-        "id": "1SOClUWhOi8vHZYMz3GluK",
-        "uri": "spotify:track:1SOClUWhOi8vHZYMz3GluK",
-        "title": "Infinity",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-                },
-                "href": "https://api.spotify.com/v1/artists/6QrQ7OrISRYIfS5mtacaw2",
-                "id": "6QrQ7OrISRYIfS5mtacaw2",
-                "name": "Jaymes Young",
-                "type": "artist",
-                "uri": "spotify:artist:6QrQ7OrISRYIfS5mtacaw2"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02a9897f65d1ead1be10a51e3f",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851a9897f65d1ead1be10a51e3f",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.671,
-            "energy": 0.673,
-            "key": 11,
-            "loudness": -6.941,
-            "mode": 0,
-            "speechiness": 0.0444,
-            "acousticness": 0.148,
-            "instrumentalness": 5.29e-05,
-            "liveness": 0.304,
-            "valence": 0.494,
-            "tempo": 121.963,
-            "type": "audio_features",
-            "id": "1SOClUWhOi8vHZYMz3GluK",
-            "uri": "spotify:track:1SOClUWhOi8vHZYMz3GluK",
-            "track_href": "https://api.spotify.com/v1/tracks/1SOClUWhOi8vHZYMz3GluK",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SOClUWhOi8vHZYMz3GluK",
-            "duration_ms": 237720,
             "time_signature": 4
         }
     },
@@ -1625,6 +1505,61 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc",
+        "id": "4SqWKzw0CbA05TGszDgMlc",
+        "uri": "spotify:track:4SqWKzw0CbA05TGszDgMlc",
+        "title": "I Love You So",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+                },
+                "href": "https://api.spotify.com/v1/artists/027TpXKGwdXP7iwbjUSpV8",
+                "id": "027TpXKGwdXP7iwbjUSpV8",
+                "name": "The Walters",
+                "type": "artist",
+                "uri": "spotify:artist:027TpXKGwdXP7iwbjUSpV8"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739214ff0109a0e062f8a6cf0f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029214ff0109a0e062f8a6cf0f",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519214ff0109a0e062f8a6cf0f",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.575,
+            "energy": 0.648,
+            "key": 10,
+            "loudness": -4.891,
+            "mode": 1,
+            "speechiness": 0.0358,
+            "acousticness": 0.583,
+            "instrumentalness": 0,
+            "liveness": 0.115,
+            "valence": 0.466,
+            "tempo": 75.977,
+            "type": "audio_features",
+            "id": "4SqWKzw0CbA05TGszDgMlc",
+            "uri": "spotify:track:4SqWKzw0CbA05TGszDgMlc",
+            "track_href": "https://api.spotify.com/v1/tracks/4SqWKzw0CbA05TGszDgMlc",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4SqWKzw0CbA05TGszDgMlc",
+            "duration_ms": 160240,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
         "id": "0VjIjW4GlUZAMYd2vXMi3b",
         "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
@@ -1676,71 +1611,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VjIjW4GlUZAMYd2vXMi3b",
             "duration_ms": 200040,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7",
-        "id": "0bBd6K5X4W7t9GyXcaVOA7",
-        "uri": "spotify:track:0bBd6K5X4W7t9GyXcaVOA7",
-        "title": "Sigue",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                },
-                "href": "https://api.spotify.com/v1/artists/1vyhD5VmyZ7KMfW5gqLgo5",
-                "id": "1vyhD5VmyZ7KMfW5gqLgo5",
-                "name": "J Balvin",
-                "type": "artist",
-                "uri": "spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-                },
-                "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
-                "id": "6eUKZXaKkcviH0Ku9w2n3V",
-                "name": "Ed Sheeran",
-                "type": "artist",
-                "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738717b3ce89ee66bfb1133700",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028717b3ce89ee66bfb1133700",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518717b3ce89ee66bfb1133700",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.889,
-            "energy": 0.641,
-            "key": 7,
-            "loudness": -4.494,
-            "mode": 1,
-            "speechiness": 0.0668,
-            "acousticness": 0.0515,
-            "instrumentalness": 2.75e-05,
-            "liveness": 0.19,
-            "valence": 0.588,
-            "tempo": 87.99,
-            "type": "audio_features",
-            "id": "0bBd6K5X4W7t9GyXcaVOA7",
-            "uri": "spotify:track:0bBd6K5X4W7t9GyXcaVOA7",
-            "track_href": "https://api.spotify.com/v1/tracks/0bBd6K5X4W7t9GyXcaVOA7",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0bBd6K5X4W7t9GyXcaVOA7",
-            "duration_ms": 159387,
             "time_signature": 4
         }
     },
@@ -1820,57 +1690,122 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc",
-        "id": "4SqWKzw0CbA05TGszDgMlc",
-        "uri": "spotify:track:4SqWKzw0CbA05TGszDgMlc",
-        "title": "I Love You So",
+        "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh",
+        "id": "7mFj0LlWtEJaEigguaWqYh",
+        "uri": "spotify:track:7mFj0LlWtEJaEigguaWqYh",
+        "title": "Sweetest Pie",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+                    "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
                 },
-                "href": "https://api.spotify.com/v1/artists/027TpXKGwdXP7iwbjUSpV8",
-                "id": "027TpXKGwdXP7iwbjUSpV8",
-                "name": "The Walters",
+                "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+                "id": "181bsRPaVXVlUKXrxwZfHK",
+                "name": "Megan Thee Stallion",
                 "type": "artist",
-                "uri": "spotify:artist:027TpXKGwdXP7iwbjUSpV8"
+                "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                },
+                "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+                "id": "6M2wZ9GZgrQXHCFfjv46we",
+                "name": "Dua Lipa",
+                "type": "artist",
+                "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2739214ff0109a0e062f8a6cf0f",
+                "url": "https://i.scdn.co/image/ab67616d0000b273a9a24981f3fc5d314f4e9f36",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e029214ff0109a0e062f8a6cf0f",
+                "url": "https://i.scdn.co/image/ab67616d00001e02a9a24981f3fc5d314f4e9f36",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048519214ff0109a0e062f8a6cf0f",
+                "url": "https://i.scdn.co/image/ab67616d00004851a9a24981f3fc5d314f4e9f36",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.575,
-            "energy": 0.648,
-            "key": 10,
-            "loudness": -4.891,
+            "danceability": 0.814,
+            "energy": 0.628,
+            "key": 7,
+            "loudness": -7.178,
             "mode": 1,
-            "speechiness": 0.0358,
-            "acousticness": 0.583,
+            "speechiness": 0.221,
+            "acousticness": 0.167,
             "instrumentalness": 0,
-            "liveness": 0.115,
-            "valence": 0.466,
-            "tempo": 75.977,
+            "liveness": 0.101,
+            "valence": 0.677,
+            "tempo": 123.977,
             "type": "audio_features",
-            "id": "4SqWKzw0CbA05TGszDgMlc",
-            "uri": "spotify:track:4SqWKzw0CbA05TGszDgMlc",
-            "track_href": "https://api.spotify.com/v1/tracks/4SqWKzw0CbA05TGszDgMlc",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4SqWKzw0CbA05TGszDgMlc",
-            "duration_ms": 160240,
+            "id": "7mFj0LlWtEJaEigguaWqYh",
+            "uri": "spotify:track:7mFj0LlWtEJaEigguaWqYh",
+            "track_href": "https://api.spotify.com/v1/tracks/7mFj0LlWtEJaEigguaWqYh",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7mFj0LlWtEJaEigguaWqYh",
+            "duration_ms": 201334,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f",
+        "id": "4gHnSNHs8RyVukKoWdS99f",
+        "uri": "spotify:track:4gHnSNHs8RyVukKoWdS99f",
+        "title": "Something In The Way",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+                },
+                "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+                "id": "6olE6TJLqED3rqDCT0FyPh",
+                "name": "Nirvana",
+                "type": "artist",
+                "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.427,
+            "energy": 0.201,
+            "key": 8,
+            "loudness": -13.044,
+            "mode": 1,
+            "speechiness": 0.0317,
+            "acousticness": 0.745,
+            "instrumentalness": 0.263,
+            "liveness": 0.109,
+            "valence": 0.0668,
+            "tempo": 105.218,
+            "type": "audio_features",
+            "id": "4gHnSNHs8RyVukKoWdS99f",
+            "uri": "spotify:track:4gHnSNHs8RyVukKoWdS99f",
+            "track_href": "https://api.spotify.com/v1/tracks/4gHnSNHs8RyVukKoWdS99f",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4gHnSNHs8RyVukKoWdS99f",
+            "duration_ms": 232147,
             "time_signature": 4
         }
     },
@@ -1926,61 +1861,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/3JvKfv6T31zO0ini8iNItO",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JvKfv6T31zO0ini8iNItO",
             "duration_ms": 244360,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi",
-        "id": "3Vi5XqYrmQgOYBajMWSvCi",
-        "uri": "spotify:track:3Vi5XqYrmQgOYBajMWSvCi",
-        "title": "Need to Know",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-                },
-                "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
-                "id": "5cj0lLjcoR7YOSnhnX0Po5",
-                "name": "Doja Cat",
-                "type": "artist",
-                "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.664,
-            "energy": 0.609,
-            "key": 1,
-            "loudness": -6.509,
-            "mode": 1,
-            "speechiness": 0.0707,
-            "acousticness": 0.304,
-            "instrumentalness": 0,
-            "liveness": 0.0926,
-            "valence": 0.194,
-            "tempo": 130.041,
-            "type": "audio_features",
-            "id": "3Vi5XqYrmQgOYBajMWSvCi",
-            "uri": "spotify:track:3Vi5XqYrmQgOYBajMWSvCi",
-            "track_href": "https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Vi5XqYrmQgOYBajMWSvCi",
-            "duration_ms": 210560,
             "time_signature": 4
         }
     },
@@ -2050,61 +1930,6 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm",
-        "id": "3XjN0mvFkQp1FMVM9Ro5hm",
-        "uri": "spotify:track:3XjN0mvFkQp1FMVM9Ro5hm",
-        "title": "RUMBAT\u00d3N",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-                },
-                "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
-                "id": "4VMYDCV2IEDYJArk749S6m",
-                "name": "Daddy Yankee",
-                "type": "artist",
-                "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27342b84b2b0aa47bc162b29522",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0242b84b2b0aa47bc162b29522",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485142b84b2b0aa47bc162b29522",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.685,
-            "energy": 0.909,
-            "key": 3,
-            "loudness": -4.034,
-            "mode": 0,
-            "speechiness": 0.0396,
-            "acousticness": 0.0471,
-            "instrumentalness": 0,
-            "liveness": 0.35,
-            "valence": 0.922,
-            "tempo": 95.004,
-            "type": "audio_features",
-            "id": "3XjN0mvFkQp1FMVM9Ro5hm",
-            "uri": "spotify:track:3XjN0mvFkQp1FMVM9Ro5hm",
-            "track_href": "https://api.spotify.com/v1/tracks/3XjN0mvFkQp1FMVM9Ro5hm",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3XjN0mvFkQp1FMVM9Ro5hm",
-            "duration_ms": 248769,
-            "time_signature": 4
-        }
-    },
-    {
         "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
         "id": "2QjOHCTQ1Jl3zawyYOpxh6",
         "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
@@ -2156,71 +1981,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/2QjOHCTQ1Jl3zawyYOpxh6",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/2QjOHCTQ1Jl3zawyYOpxh6",
             "duration_ms": 240400,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
-        "id": "3DarAbFujv6eYNliUTyqtz",
-        "uri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
-        "title": "Kiss Me More (feat. SZA)",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-                },
-                "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
-                "id": "5cj0lLjcoR7YOSnhnX0Po5",
-                "name": "Doja Cat",
-                "type": "artist",
-                "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-                },
-                "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
-                "id": "7tYKF4w9nC0nq9CsPZTHyP",
-                "name": "SZA",
-                "type": "artist",
-                "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.764,
-            "energy": 0.705,
-            "key": 8,
-            "loudness": -3.463,
-            "mode": 1,
-            "speechiness": 0.0284,
-            "acousticness": 0.259,
-            "instrumentalness": 8.92e-05,
-            "liveness": 0.12,
-            "valence": 0.781,
-            "tempo": 110.97,
-            "type": "audio_features",
-            "id": "3DarAbFujv6eYNliUTyqtz",
-            "uri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
-            "track_href": "https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DarAbFujv6eYNliUTyqtz",
-            "duration_ms": 208667,
             "time_signature": 4
         }
     },
@@ -2280,57 +2040,57 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f",
-        "id": "4gHnSNHs8RyVukKoWdS99f",
-        "uri": "spotify:track:4gHnSNHs8RyVukKoWdS99f",
-        "title": "Something In The Way",
+        "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi",
+        "id": "3Vi5XqYrmQgOYBajMWSvCi",
+        "uri": "spotify:track:3Vi5XqYrmQgOYBajMWSvCi",
+        "title": "Need to Know",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+                    "spotify": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
                 },
-                "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
-                "id": "6olE6TJLqED3rqDCT0FyPh",
-                "name": "Nirvana",
+                "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+                "id": "5cj0lLjcoR7YOSnhnX0Po5",
+                "name": "Doja Cat",
                 "type": "artist",
-                "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
+                "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6",
+                "url": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+                "url": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.427,
-            "energy": 0.201,
-            "key": 8,
-            "loudness": -13.044,
+            "danceability": 0.664,
+            "energy": 0.609,
+            "key": 1,
+            "loudness": -6.509,
             "mode": 1,
-            "speechiness": 0.0317,
-            "acousticness": 0.745,
-            "instrumentalness": 0.263,
-            "liveness": 0.109,
-            "valence": 0.0668,
-            "tempo": 105.218,
+            "speechiness": 0.0707,
+            "acousticness": 0.304,
+            "instrumentalness": 0,
+            "liveness": 0.0926,
+            "valence": 0.194,
+            "tempo": 130.041,
             "type": "audio_features",
-            "id": "4gHnSNHs8RyVukKoWdS99f",
-            "uri": "spotify:track:4gHnSNHs8RyVukKoWdS99f",
-            "track_href": "https://api.spotify.com/v1/tracks/4gHnSNHs8RyVukKoWdS99f",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4gHnSNHs8RyVukKoWdS99f",
-            "duration_ms": 232147,
+            "id": "3Vi5XqYrmQgOYBajMWSvCi",
+            "uri": "spotify:track:3Vi5XqYrmQgOYBajMWSvCi",
+            "track_href": "https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Vi5XqYrmQgOYBajMWSvCi",
+            "duration_ms": 210560,
             "time_signature": 4
         }
     },
@@ -2387,366 +2147,6 @@
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/2eAvDnpXP5W0cVtiI0PUxV",
             "duration_ms": 233720,
             "time_signature": 3
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ",
-        "id": "3AVXwaOGCEL8cmBecfcsFJ",
-        "uri": "spotify:track:3AVXwaOGCEL8cmBecfcsFJ",
-        "title": "Light Switch",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-                },
-                "href": "https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7",
-                "id": "6VuMaDnrHyPL1p4EHjYLi7",
-                "name": "Charlie Puth",
-                "type": "artist",
-                "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273eea6313204bdb8cd3e6cbc9d",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02eea6313204bdb8cd3e6cbc9d",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851eea6313204bdb8cd3e6cbc9d",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.69,
-            "energy": 0.626,
-            "key": 6,
-            "loudness": -5.693,
-            "mode": 1,
-            "speechiness": 0.306,
-            "acousticness": 0.105,
-            "instrumentalness": 0.000335,
-            "liveness": 0.0881,
-            "valence": 0.912,
-            "tempo": 184.009,
-            "type": "audio_features",
-            "id": "3AVXwaOGCEL8cmBecfcsFJ",
-            "uri": "spotify:track:3AVXwaOGCEL8cmBecfcsFJ",
-            "track_href": "https://api.spotify.com/v1/tracks/3AVXwaOGCEL8cmBecfcsFJ",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AVXwaOGCEL8cmBecfcsFJ",
-            "duration_ms": 185681,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz",
-        "id": "3uwnnTQcHM1rDqSfA4gQNz",
-        "uri": "spotify:track:3uwnnTQcHM1rDqSfA4gQNz",
-        "title": "Cool for the Summer",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-                },
-                "href": "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
-                "id": "6S2OmqARrzebs0tKUEyXyp",
-                "name": "Demi Lovato",
-                "type": "artist",
-                "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ed164cf1c10f028e8f528784",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ed164cf1c10f028e8f528784",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.583,
-            "energy": 0.61,
-            "key": 5,
-            "loudness": -5.639,
-            "mode": 0,
-            "speechiness": 0.0382,
-            "acousticness": 0.00425,
-            "instrumentalness": 0.000105,
-            "liveness": 0.14,
-            "valence": 0.336,
-            "tempo": 114.06,
-            "type": "audio_features",
-            "id": "3uwnnTQcHM1rDqSfA4gQNz",
-            "uri": "spotify:track:3uwnnTQcHM1rDqSfA4gQNz",
-            "track_href": "https://api.spotify.com/v1/tracks/3uwnnTQcHM1rDqSfA4gQNz",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uwnnTQcHM1rDqSfA4gQNz",
-            "duration_ms": 214740,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1",
-        "id": "50eJOxJiGmJ7PBZaTKpje1",
-        "uri": "spotify:track:50eJOxJiGmJ7PBZaTKpje1",
-        "title": "make up sex (feat. blackbear)",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-                },
-                "href": "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
-                "id": "6TIYQ3jFPwQSRmorSezPxX",
-                "name": "Machine Gun Kelly",
-                "type": "artist",
-                "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-                },
-                "href": "https://api.spotify.com/v1/artists/2cFrymmkijnjDg9SS92EPM",
-                "id": "2cFrymmkijnjDg9SS92EPM",
-                "name": "blackbear",
-                "type": "artist",
-                "uri": "spotify:artist:2cFrymmkijnjDg9SS92EPM"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b4683d9ac3c5f14a71523c84",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b4683d9ac3c5f14a71523c84",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b4683d9ac3c5f14a71523c84",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.665,
-            "energy": 0.678,
-            "key": 5,
-            "loudness": -4.122,
-            "mode": 0,
-            "speechiness": 0.0315,
-            "acousticness": 0.00156,
-            "instrumentalness": 0,
-            "liveness": 0.474,
-            "valence": 0.682,
-            "tempo": 131.986,
-            "type": "audio_features",
-            "id": "50eJOxJiGmJ7PBZaTKpje1",
-            "uri": "spotify:track:50eJOxJiGmJ7PBZaTKpje1",
-            "track_href": "https://api.spotify.com/v1/tracks/50eJOxJiGmJ7PBZaTKpje1",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/50eJOxJiGmJ7PBZaTKpje1",
-            "duration_ms": 122570,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ",
-        "id": "25wdC7CJmCJPgnKw9rYquJ",
-        "uri": "spotify:track:25wdC7CJmCJPgnKw9rYquJ",
-        "title": "maybe (feat. Bring Me The Horizon)",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-                },
-                "href": "https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX",
-                "id": "6TIYQ3jFPwQSRmorSezPxX",
-                "name": "Machine Gun Kelly",
-                "type": "artist",
-                "uri": "spotify:artist:6TIYQ3jFPwQSRmorSezPxX"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-                },
-                "href": "https://api.spotify.com/v1/artists/1Ffb6ejR6Fe5IamqA5oRUF",
-                "id": "1Ffb6ejR6Fe5IamqA5oRUF",
-                "name": "Bring Me The Horizon",
-                "type": "artist",
-                "uri": "spotify:artist:1Ffb6ejR6Fe5IamqA5oRUF"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b4683d9ac3c5f14a71523c84",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b4683d9ac3c5f14a71523c84",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b4683d9ac3c5f14a71523c84",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.601,
-            "energy": 0.92,
-            "key": 5,
-            "loudness": -4.802,
-            "mode": 0,
-            "speechiness": 0.0505,
-            "acousticness": 0.000735,
-            "instrumentalness": 0,
-            "liveness": 0.0998,
-            "valence": 0.537,
-            "tempo": 88.014,
-            "type": "audio_features",
-            "id": "25wdC7CJmCJPgnKw9rYquJ",
-            "uri": "spotify:track:25wdC7CJmCJPgnKw9rYquJ",
-            "track_href": "https://api.spotify.com/v1/tracks/25wdC7CJmCJPgnKw9rYquJ",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/25wdC7CJmCJPgnKw9rYquJ",
-            "duration_ms": 170134,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW",
-        "id": "65MqlYPOWReasKWcuCaOCW",
-        "uri": "spotify:track:65MqlYPOWReasKWcuCaOCW",
-        "title": "REMIX",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-                },
-                "href": "https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m",
-                "id": "4VMYDCV2IEDYJArk749S6m",
-                "name": "Daddy Yankee",
-                "type": "artist",
-                "uri": "spotify:artist:4VMYDCV2IEDYJArk749S6m"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27342b84b2b0aa47bc162b29522",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0242b84b2b0aa47bc162b29522",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485142b84b2b0aa47bc162b29522",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.819,
-            "energy": 0.781,
-            "key": 1,
-            "loudness": -4.879,
-            "mode": 1,
-            "speechiness": 0.0547,
-            "acousticness": 0.0323,
-            "instrumentalness": 0.0012,
-            "liveness": 0.121,
-            "valence": 0.385,
-            "tempo": 100.062,
-            "type": "audio_features",
-            "id": "65MqlYPOWReasKWcuCaOCW",
-            "uri": "spotify:track:65MqlYPOWReasKWcuCaOCW",
-            "track_href": "https://api.spotify.com/v1/tracks/65MqlYPOWReasKWcuCaOCW",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/65MqlYPOWReasKWcuCaOCW",
-            "duration_ms": 163680,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB",
-        "id": "5zNxUkUW9WiV5oyg6gh2wB",
-        "uri": "spotify:track:5zNxUkUW9WiV5oyg6gh2wB",
-        "title": "DAN\u00c7ARINA",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-                },
-                "href": "https://api.spotify.com/v1/artists/5wbf52LA6kcaboHSN6NEF1",
-                "id": "5wbf52LA6kcaboHSN6NEF1",
-                "name": "PEDRO SAMPAIO",
-                "type": "artist",
-                "uri": "spotify:artist:5wbf52LA6kcaboHSN6NEF1"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-                },
-                "href": "https://api.spotify.com/v1/artists/1etNnR2SdlelBQAICa2Q5m",
-                "id": "1etNnR2SdlelBQAICa2Q5m",
-                "name": "Mc Pedrinho",
-                "type": "artist",
-                "uri": "spotify:artist:1etNnR2SdlelBQAICa2Q5m"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27318313f96fb2cecc502a34f85",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0218313f96fb2cecc502a34f85",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485118313f96fb2cecc502a34f85",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.778,
-            "energy": 0.571,
-            "key": 9,
-            "loudness": -4.776,
-            "mode": 0,
-            "speechiness": 0.0788,
-            "acousticness": 0.0423,
-            "instrumentalness": 0,
-            "liveness": 0.0964,
-            "valence": 0.554,
-            "tempo": 134.999,
-            "type": "audio_features",
-            "id": "5zNxUkUW9WiV5oyg6gh2wB",
-            "uri": "spotify:track:5zNxUkUW9WiV5oyg6gh2wB",
-            "track_href": "https://api.spotify.com/v1/tracks/5zNxUkUW9WiV5oyg6gh2wB",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zNxUkUW9WiV5oyg6gh2wB",
-            "duration_ms": 110222,
-            "time_signature": 4
         }
     },
     {
@@ -2865,6 +2265,181 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
+        "id": "3DarAbFujv6eYNliUTyqtz",
+        "uri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
+        "title": "Kiss Me More (feat. SZA)",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+                },
+                "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+                "id": "5cj0lLjcoR7YOSnhnX0Po5",
+                "name": "Doja Cat",
+                "type": "artist",
+                "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+                },
+                "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+                "id": "7tYKF4w9nC0nq9CsPZTHyP",
+                "name": "SZA",
+                "type": "artist",
+                "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024df3245f26298a1579ecc321",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514df3245f26298a1579ecc321",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.764,
+            "energy": 0.705,
+            "key": 8,
+            "loudness": -3.463,
+            "mode": 1,
+            "speechiness": 0.0284,
+            "acousticness": 0.259,
+            "instrumentalness": 8.92e-05,
+            "liveness": 0.12,
+            "valence": 0.781,
+            "tempo": 110.97,
+            "type": "audio_features",
+            "id": "3DarAbFujv6eYNliUTyqtz",
+            "uri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
+            "track_href": "https://api.spotify.com/v1/tracks/3DarAbFujv6eYNliUTyqtz",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DarAbFujv6eYNliUTyqtz",
+            "duration_ms": 208667,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV",
+        "id": "7BDHDiidJ8WV349p3HTxTV",
+        "uri": "spotify:track:7BDHDiidJ8WV349p3HTxTV",
+        "title": "MANIAC",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+                },
+                "href": "https://api.spotify.com/v1/artists/2dIgFjalVxs4ThymZ67YCE",
+                "id": "2dIgFjalVxs4ThymZ67YCE",
+                "name": "Stray Kids",
+                "type": "artist",
+                "uri": "spotify:artist:2dIgFjalVxs4ThymZ67YCE"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27348eefbb034760e932f571790",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0248eefbb034760e932f571790",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485148eefbb034760e932f571790",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.744,
+            "energy": 0.8,
+            "key": 1,
+            "loudness": -2.63,
+            "mode": 1,
+            "speechiness": 0.266,
+            "acousticness": 0.181,
+            "instrumentalness": 0,
+            "liveness": 0.0746,
+            "valence": 0.722,
+            "tempo": 89.925,
+            "type": "audio_features",
+            "id": "7BDHDiidJ8WV349p3HTxTV",
+            "uri": "spotify:track:7BDHDiidJ8WV349p3HTxTV",
+            "track_href": "https://api.spotify.com/v1/tracks/7BDHDiidJ8WV349p3HTxTV",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BDHDiidJ8WV349p3HTxTV",
+            "duration_ms": 182758,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ",
+        "id": "3AVXwaOGCEL8cmBecfcsFJ",
+        "uri": "spotify:track:3AVXwaOGCEL8cmBecfcsFJ",
+        "title": "Light Switch",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+                },
+                "href": "https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7",
+                "id": "6VuMaDnrHyPL1p4EHjYLi7",
+                "name": "Charlie Puth",
+                "type": "artist",
+                "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273eea6313204bdb8cd3e6cbc9d",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02eea6313204bdb8cd3e6cbc9d",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851eea6313204bdb8cd3e6cbc9d",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.69,
+            "energy": 0.626,
+            "key": 6,
+            "loudness": -5.693,
+            "mode": 1,
+            "speechiness": 0.306,
+            "acousticness": 0.105,
+            "instrumentalness": 0.000335,
+            "liveness": 0.0881,
+            "valence": 0.912,
+            "tempo": 184.009,
+            "type": "audio_features",
+            "id": "3AVXwaOGCEL8cmBecfcsFJ",
+            "uri": "spotify:track:3AVXwaOGCEL8cmBecfcsFJ",
+            "track_href": "https://api.spotify.com/v1/tracks/3AVXwaOGCEL8cmBecfcsFJ",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3AVXwaOGCEL8cmBecfcsFJ",
+            "duration_ms": 185681,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF",
         "id": "5nujrmhLynf4yMoMtj8AQF",
         "uri": "spotify:track:5nujrmhLynf4yMoMtj8AQF",
@@ -2930,87 +2505,177 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h",
-        "id": "3sd2p4kE7xQmFH3lPnFl6h",
-        "uri": "spotify:track:3sd2p4kE7xQmFH3lPnFl6h",
-        "title": "sentaDONA (Remix) s2",
+        "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
+        "id": "5CZ40GBx1sQ9agT82CLQCT",
+        "uri": "spotify:track:5CZ40GBx1sQ9agT82CLQCT",
+        "title": "traitor",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+                    "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
                 },
-                "href": "https://api.spotify.com/v1/artists/6rygauyIMQJrXRC4e5rQJP",
-                "id": "6rygauyIMQJrXRC4e5rQJP",
-                "name": "Davi Kneip",
+                "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+                "id": "1McMsnEElThX1knmY4oliG",
+                "name": "Olivia Rodrigo",
                 "type": "artist",
-                "uri": "spotify:artist:6rygauyIMQJrXRC4e5rQJP"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-                },
-                "href": "https://api.spotify.com/v1/artists/5xKesKsXI1jv2TorLOnbbm",
-                "id": "5xKesKsXI1jv2TorLOnbbm",
-                "name": "Mc Frog",
-                "type": "artist",
-                "uri": "spotify:artist:5xKesKsXI1jv2TorLOnbbm"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-                },
-                "href": "https://api.spotify.com/v1/artists/6HJiLhKqnOh32p3LSNWsR3",
-                "id": "6HJiLhKqnOh32p3LSNWsR3",
-                "name": "Dj Gabriel do Borel",
-                "type": "artist",
-                "uri": "spotify:artist:6HJiLhKqnOh32p3LSNWsR3"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-                },
-                "href": "https://api.spotify.com/v1/artists/4PzYKhC14sTJNEr0dzoo0d",
-                "id": "4PzYKhC14sTJNEr0dzoo0d",
-                "name": "Lu\u00edsa Sonza",
-                "type": "artist",
-                "uri": "spotify:artist:4PzYKhC14sTJNEr0dzoo0d"
+                "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734e087848bdb9bebc193ce961",
+                "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e024e087848bdb9bebc193ce961",
+                "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048514e087848bdb9bebc193ce961",
+                "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.925,
-            "energy": 0.454,
+            "danceability": 0.38,
+            "energy": 0.339,
             "key": 3,
-            "loudness": -3.533,
-            "mode": 0,
-            "speechiness": 0.273,
-            "acousticness": 0.252,
-            "instrumentalness": 4.19e-06,
-            "liveness": 0.128,
-            "valence": 0.771,
-            "tempo": 135.02,
+            "loudness": -7.885,
+            "mode": 1,
+            "speechiness": 0.0338,
+            "acousticness": 0.691,
+            "instrumentalness": 0,
+            "liveness": 0.12,
+            "valence": 0.0849,
+            "tempo": 100.607,
             "type": "audio_features",
-            "id": "3sd2p4kE7xQmFH3lPnFl6h",
-            "uri": "spotify:track:3sd2p4kE7xQmFH3lPnFl6h",
-            "track_href": "https://api.spotify.com/v1/tracks/3sd2p4kE7xQmFH3lPnFl6h",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sd2p4kE7xQmFH3lPnFl6h",
-            "duration_ms": 125245,
+            "id": "5CZ40GBx1sQ9agT82CLQCT",
+            "uri": "spotify:track:5CZ40GBx1sQ9agT82CLQCT",
+            "track_href": "https://api.spotify.com/v1/tracks/5CZ40GBx1sQ9agT82CLQCT",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CZ40GBx1sQ9agT82CLQCT",
+            "duration_ms": 229227,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX",
+        "id": "1oFAF1hdPOickyHgbuRjyX",
+        "uri": "spotify:track:1oFAF1hdPOickyHgbuRjyX",
+        "title": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+                "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                "name": "The Weeknd",
+                "type": "artist",
+                "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                },
+                "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+                "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                "name": "Ariana Grande",
+                "type": "artist",
+                "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b5097b81179824803664aaaf",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b5097b81179824803664aaaf",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.65,
+            "energy": 0.825,
+            "key": 0,
+            "loudness": -4.645,
+            "mode": 1,
+            "speechiness": 0.0325,
+            "acousticness": 0.0215,
+            "instrumentalness": 2.44e-05,
+            "liveness": 0.0936,
+            "valence": 0.593,
+            "tempo": 118.091,
+            "type": "audio_features",
+            "id": "1oFAF1hdPOickyHgbuRjyX",
+            "uri": "spotify:track:1oFAF1hdPOickyHgbuRjyX",
+            "track_href": "https://api.spotify.com/v1/tracks/1oFAF1hdPOickyHgbuRjyX",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1oFAF1hdPOickyHgbuRjyX",
+            "duration_ms": 191014,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb",
+        "id": "70AYiGbc4mWZGEqiipBBDb",
+        "uri": "spotify:track:70AYiGbc4mWZGEqiipBBDb",
+        "title": "CANDY",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+                },
+                "href": "https://api.spotify.com/v1/artists/7ltDVBr6mKbRvohxheJ9h1",
+                "id": "7ltDVBr6mKbRvohxheJ9h1",
+                "name": "ROSAL\u00cdA",
+                "type": "artist",
+                "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730c179967a265de0fc76382fe",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020c179967a265de0fc76382fe",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510c179967a265de0fc76382fe",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.638,
+            "energy": 0.49,
+            "key": 4,
+            "loudness": -5.726,
+            "mode": 0,
+            "speechiness": 0.226,
+            "acousticness": 0.885,
+            "instrumentalness": 0.0116,
+            "liveness": 0.156,
+            "valence": 0.403,
+            "tempo": 179.905,
+            "type": "audio_features",
+            "id": "70AYiGbc4mWZGEqiipBBDb",
+            "uri": "spotify:track:70AYiGbc4mWZGEqiipBBDb",
+            "track_href": "https://api.spotify.com/v1/tracks/70AYiGbc4mWZGEqiipBBDb",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/70AYiGbc4mWZGEqiipBBDb",
+            "duration_ms": 193480,
             "time_signature": 4
         }
     },
@@ -3066,6 +2731,311 @@
             "track_href": "https://api.spotify.com/v1/tracks/531KGXtBroSrOX9LVmiIgc",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/531KGXtBroSrOX9LVmiIgc",
             "duration_ms": 211935,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha",
+        "id": "2K7xn816oNHJZ0aVqdQsha",
+        "uri": "spotify:track:2K7xn816oNHJZ0aVqdQsha",
+        "title": "Softcore",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+                },
+                "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+                "id": "77SW9BnxLY8rJ0RciFqkHh",
+                "name": "The Neighbourhood",
+                "type": "artist",
+                "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029b6ac98a52f62d5cb473da40",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519b6ac98a52f62d5cb473da40",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.575,
+            "energy": 0.568,
+            "key": 9,
+            "loudness": -5.509,
+            "mode": 0,
+            "speechiness": 0.03,
+            "acousticness": 0.0484,
+            "instrumentalness": 0.000417,
+            "liveness": 0.286,
+            "valence": 0.37,
+            "tempo": 93.986,
+            "type": "audio_features",
+            "id": "2K7xn816oNHJZ0aVqdQsha",
+            "uri": "spotify:track:2K7xn816oNHJZ0aVqdQsha",
+            "track_href": "https://api.spotify.com/v1/tracks/2K7xn816oNHJZ0aVqdQsha",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2K7xn816oNHJZ0aVqdQsha",
+            "duration_ms": 206280,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W",
+        "id": "1SC5rEoYDGUK4NfG82494W",
+        "uri": "spotify:track:1SC5rEoYDGUK4NfG82494W",
+        "title": "MONTERO (Call Me By Your Name)",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+                },
+                "href": "https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq",
+                "id": "7jVv8c5Fj3E9VhNjxT4snq",
+                "name": "Lil Nas X",
+                "type": "artist",
+                "uri": "spotify:artist:7jVv8c5Fj3E9VhNjxT4snq"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851be82673b5f79d9658ec0a9fd",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.593,
+            "energy": 0.503,
+            "key": 8,
+            "loudness": -6.725,
+            "mode": 0,
+            "speechiness": 0.22,
+            "acousticness": 0.293,
+            "instrumentalness": 0,
+            "liveness": 0.405,
+            "valence": 0.71,
+            "tempo": 178.781,
+            "type": "audio_features",
+            "id": "1SC5rEoYDGUK4NfG82494W",
+            "uri": "spotify:track:1SC5rEoYDGUK4NfG82494W",
+            "track_href": "https://api.spotify.com/v1/tracks/1SC5rEoYDGUK4NfG82494W",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SC5rEoYDGUK4NfG82494W",
+            "duration_ms": 137704,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB",
+        "id": "5zNxUkUW9WiV5oyg6gh2wB",
+        "uri": "spotify:track:5zNxUkUW9WiV5oyg6gh2wB",
+        "title": "DAN\u00c7ARINA",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+                },
+                "href": "https://api.spotify.com/v1/artists/5wbf52LA6kcaboHSN6NEF1",
+                "id": "5wbf52LA6kcaboHSN6NEF1",
+                "name": "PEDRO SAMPAIO",
+                "type": "artist",
+                "uri": "spotify:artist:5wbf52LA6kcaboHSN6NEF1"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+                },
+                "href": "https://api.spotify.com/v1/artists/1etNnR2SdlelBQAICa2Q5m",
+                "id": "1etNnR2SdlelBQAICa2Q5m",
+                "name": "Mc Pedrinho",
+                "type": "artist",
+                "uri": "spotify:artist:1etNnR2SdlelBQAICa2Q5m"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318313f96fb2cecc502a34f85",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218313f96fb2cecc502a34f85",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118313f96fb2cecc502a34f85",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.778,
+            "energy": 0.571,
+            "key": 9,
+            "loudness": -4.776,
+            "mode": 0,
+            "speechiness": 0.0788,
+            "acousticness": 0.0423,
+            "instrumentalness": 0,
+            "liveness": 0.0964,
+            "valence": 0.554,
+            "tempo": 134.999,
+            "type": "audio_features",
+            "id": "5zNxUkUW9WiV5oyg6gh2wB",
+            "uri": "spotify:track:5zNxUkUW9WiV5oyg6gh2wB",
+            "track_href": "https://api.spotify.com/v1/tracks/5zNxUkUW9WiV5oyg6gh2wB",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zNxUkUW9WiV5oyg6gh2wB",
+            "duration_ms": 110222,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+        "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+        "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
+        "title": "Without Me",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+                },
+                "href": "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+                "id": "7dGJo4pcD2V6oG8kP0tJRR",
+                "name": "Eminem",
+                "type": "artist",
+                "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.908,
+            "energy": 0.669,
+            "key": 7,
+            "loudness": -2.827,
+            "mode": 1,
+            "speechiness": 0.0738,
+            "acousticness": 0.00286,
+            "instrumentalness": 0,
+            "liveness": 0.237,
+            "valence": 0.662,
+            "tempo": 112.238,
+            "type": "audio_features",
+            "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+            "uri": "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk",
+            "track_href": "https://api.spotify.com/v1/tracks/7lQ8MOhq6IN2w8EYcFNSUk",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lQ8MOhq6IN2w8EYcFNSUk",
+            "duration_ms": 290320,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw",
+        "id": "6lX6l7OuA3qrnIRfdsr0dw",
+        "uri": "spotify:track:6lX6l7OuA3qrnIRfdsr0dw",
+        "title": "Medallo",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+                },
+                "href": "https://api.spotify.com/v1/artists/1TA5sGRlKUJXBN4ZyJuDIX",
+                "id": "1TA5sGRlKUJXBN4ZyJuDIX",
+                "name": "Blessd",
+                "type": "artist",
+                "uri": "spotify:artist:1TA5sGRlKUJXBN4ZyJuDIX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+                },
+                "href": "https://api.spotify.com/v1/artists/14zUHaJZo1mnYtn6IBRaRP",
+                "id": "14zUHaJZo1mnYtn6IBRaRP",
+                "name": "Justin Quiles",
+                "type": "artist",
+                "uri": "spotify:artist:14zUHaJZo1mnYtn6IBRaRP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+                },
+                "href": "https://api.spotify.com/v1/artists/1pQWsZQehhS4wavwh7Fnxd",
+                "id": "1pQWsZQehhS4wavwh7Fnxd",
+                "name": "Lenny Tav\u00e1rez",
+                "type": "artist",
+                "uri": "spotify:artist:1pQWsZQehhS4wavwh7Fnxd"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730a0ee97e8ba4373476538f19",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020a0ee97e8ba4373476538f19",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510a0ee97e8ba4373476538f19",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.787,
+            "energy": 0.7,
+            "key": 4,
+            "loudness": -4.598,
+            "mode": 0,
+            "speechiness": 0.0768,
+            "acousticness": 0.568,
+            "instrumentalness": 0.00051,
+            "liveness": 0.663,
+            "valence": 0.791,
+            "tempo": 90.02,
+            "type": "audio_features",
+            "id": "6lX6l7OuA3qrnIRfdsr0dw",
+            "uri": "spotify:track:6lX6l7OuA3qrnIRfdsr0dw",
+            "track_href": "https://api.spotify.com/v1/tracks/6lX6l7OuA3qrnIRfdsr0dw",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lX6l7OuA3qrnIRfdsr0dw",
+            "duration_ms": 233453,
             "time_signature": 4
         }
     }
