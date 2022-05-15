@@ -55,6 +55,81 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj",
+        "id": "6bTdZ7xfKp3NqqADJ8HLyj",
+        "uri": "spotify:track:6bTdZ7xfKp3NqqADJ8HLyj",
+        "title": "Vampiro",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+                },
+                "href": "https://api.spotify.com/v1/artists/5nP8x4uEFjAAmDzwOEc9b8",
+                "id": "5nP8x4uEFjAAmDzwOEc9b8",
+                "name": "Matu\u00ea",
+                "type": "artist",
+                "uri": "spotify:artist:5nP8x4uEFjAAmDzwOEc9b8"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+                },
+                "href": "https://api.spotify.com/v1/artists/3MrDVzg7ZXaYMyQmbDInr7",
+                "id": "3MrDVzg7ZXaYMyQmbDInr7",
+                "name": "WIU",
+                "type": "artist",
+                "uri": "spotify:artist:3MrDVzg7ZXaYMyQmbDInr7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+                },
+                "href": "https://api.spotify.com/v1/artists/68YeXpLt3jB7JHQS5ZjMGo",
+                "id": "68YeXpLt3jB7JHQS5ZjMGo",
+                "name": "Teto",
+                "type": "artist",
+                "uri": "spotify:artist:68YeXpLt3jB7JHQS5ZjMGo"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b0cd9991ea7465bac51e9a94",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b0cd9991ea7465bac51e9a94",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b0cd9991ea7465bac51e9a94",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.782,
+            "energy": 0.643,
+            "key": 8,
+            "loudness": -4.956,
+            "mode": 0,
+            "speechiness": 0.0438,
+            "acousticness": 0.0136,
+            "instrumentalness": 0,
+            "liveness": 0.0654,
+            "valence": 0.627,
+            "tempo": 114.994,
+            "type": "audio_features",
+            "id": "6bTdZ7xfKp3NqqADJ8HLyj",
+            "uri": "spotify:track:6bTdZ7xfKp3NqqADJ8HLyj",
+            "track_href": "https://api.spotify.com/v1/tracks/6bTdZ7xfKp3NqqADJ8HLyj",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6bTdZ7xfKp3NqqADJ8HLyj",
+            "duration_ms": 250435,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP",
         "id": "1K8AtBJXcdq5mywMnZuARP",
         "uri": "spotify:track:1K8AtBJXcdq5mywMnZuARP",
@@ -191,81 +266,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/3sd2p4kE7xQmFH3lPnFl6h",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sd2p4kE7xQmFH3lPnFl6h",
             "duration_ms": 125245,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj",
-        "id": "6bTdZ7xfKp3NqqADJ8HLyj",
-        "uri": "spotify:track:6bTdZ7xfKp3NqqADJ8HLyj",
-        "title": "Vampiro",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-                },
-                "href": "https://api.spotify.com/v1/artists/5nP8x4uEFjAAmDzwOEc9b8",
-                "id": "5nP8x4uEFjAAmDzwOEc9b8",
-                "name": "Matu\u00ea",
-                "type": "artist",
-                "uri": "spotify:artist:5nP8x4uEFjAAmDzwOEc9b8"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-                },
-                "href": "https://api.spotify.com/v1/artists/3MrDVzg7ZXaYMyQmbDInr7",
-                "id": "3MrDVzg7ZXaYMyQmbDInr7",
-                "name": "WIU",
-                "type": "artist",
-                "uri": "spotify:artist:3MrDVzg7ZXaYMyQmbDInr7"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-                },
-                "href": "https://api.spotify.com/v1/artists/68YeXpLt3jB7JHQS5ZjMGo",
-                "id": "68YeXpLt3jB7JHQS5ZjMGo",
-                "name": "Teto",
-                "type": "artist",
-                "uri": "spotify:artist:68YeXpLt3jB7JHQS5ZjMGo"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b0cd9991ea7465bac51e9a94",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b0cd9991ea7465bac51e9a94",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b0cd9991ea7465bac51e9a94",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.782,
-            "energy": 0.643,
-            "key": 8,
-            "loudness": -4.956,
-            "mode": 0,
-            "speechiness": 0.0438,
-            "acousticness": 0.0136,
-            "instrumentalness": 0,
-            "liveness": 0.0654,
-            "valence": 0.627,
-            "tempo": 114.994,
-            "type": "audio_features",
-            "id": "6bTdZ7xfKp3NqqADJ8HLyj",
-            "uri": "spotify:track:6bTdZ7xfKp3NqqADJ8HLyj",
-            "track_href": "https://api.spotify.com/v1/tracks/6bTdZ7xfKp3NqqADJ8HLyj",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6bTdZ7xfKp3NqqADJ8HLyj",
-            "duration_ms": 250435,
             "time_signature": 4
         }
     },
@@ -465,6 +465,61 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS",
+        "id": "7afaZ37wJJL6880z1NRgJS",
+        "uri": "spotify:track:7afaZ37wJJL6880z1NRgJS",
+        "title": "Fim de Semana no Rio",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+                },
+                "href": "https://api.spotify.com/v1/artists/68YeXpLt3jB7JHQS5ZjMGo",
+                "id": "68YeXpLt3jB7JHQS5ZjMGo",
+                "name": "Teto",
+                "type": "artist",
+                "uri": "spotify:artist:68YeXpLt3jB7JHQS5ZjMGo"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273acb087ed5213035b71ef7a80",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02acb087ed5213035b71ef7a80",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851acb087ed5213035b71ef7a80",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.867,
+            "energy": 0.494,
+            "key": 1,
+            "loudness": -6.514,
+            "mode": 0,
+            "speechiness": 0.084,
+            "acousticness": 0.118,
+            "instrumentalness": 0,
+            "liveness": 0.101,
+            "valence": 0.29,
+            "tempo": 118.868,
+            "type": "audio_features",
+            "id": "7afaZ37wJJL6880z1NRgJS",
+            "uri": "spotify:track:7afaZ37wJJL6880z1NRgJS",
+            "track_href": "https://api.spotify.com/v1/tracks/7afaZ37wJJL6880z1NRgJS",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7afaZ37wJJL6880z1NRgJS",
+            "duration_ms": 165882,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/5zNxUkUW9WiV5oyg6gh2wB",
         "id": "5zNxUkUW9WiV5oyg6gh2wB",
         "uri": "spotify:track:5zNxUkUW9WiV5oyg6gh2wB",
@@ -526,126 +581,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/5zNxUkUW9WiV5oyg6gh2wB",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zNxUkUW9WiV5oyg6gh2wB",
             "duration_ms": 110222,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS",
-        "id": "7afaZ37wJJL6880z1NRgJS",
-        "uri": "spotify:track:7afaZ37wJJL6880z1NRgJS",
-        "title": "Fim de Semana no Rio",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-                },
-                "href": "https://api.spotify.com/v1/artists/68YeXpLt3jB7JHQS5ZjMGo",
-                "id": "68YeXpLt3jB7JHQS5ZjMGo",
-                "name": "Teto",
-                "type": "artist",
-                "uri": "spotify:artist:68YeXpLt3jB7JHQS5ZjMGo"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273acb087ed5213035b71ef7a80",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02acb087ed5213035b71ef7a80",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851acb087ed5213035b71ef7a80",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.867,
-            "energy": 0.494,
-            "key": 1,
-            "loudness": -6.514,
-            "mode": 0,
-            "speechiness": 0.084,
-            "acousticness": 0.118,
-            "instrumentalness": 0,
-            "liveness": 0.101,
-            "valence": 0.29,
-            "tempo": 118.868,
-            "type": "audio_features",
-            "id": "7afaZ37wJJL6880z1NRgJS",
-            "uri": "spotify:track:7afaZ37wJJL6880z1NRgJS",
-            "track_href": "https://api.spotify.com/v1/tracks/7afaZ37wJJL6880z1NRgJS",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7afaZ37wJJL6880z1NRgJS",
-            "duration_ms": 165882,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND",
-        "id": "3ShKPhFkexrwl7WoyTtNND",
-        "uri": "spotify:track:3ShKPhFkexrwl7WoyTtNND",
-        "title": "Tchuco Nela",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-                },
-                "href": "https://api.spotify.com/v1/artists/5JbQpbeFaKfuZVFzKwaawP",
-                "id": "5JbQpbeFaKfuZVFzKwaawP",
-                "name": "MC Rogerinho",
-                "type": "artist",
-                "uri": "spotify:artist:5JbQpbeFaKfuZVFzKwaawP"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-                },
-                "href": "https://api.spotify.com/v1/artists/1AL2GKpmRrKXkYIcASuRFa",
-                "id": "1AL2GKpmRrKXkYIcASuRFa",
-                "name": "Wesley Safad\u00e3o",
-                "type": "artist",
-                "uri": "spotify:artist:1AL2GKpmRrKXkYIcASuRFa"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27366bd16a15930d24472b74321",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0266bd16a15930d24472b74321",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485166bd16a15930d24472b74321",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.802,
-            "energy": 0.727,
-            "key": 9,
-            "loudness": -4.968,
-            "mode": 0,
-            "speechiness": 0.0307,
-            "acousticness": 0.413,
-            "instrumentalness": 0,
-            "liveness": 0.0713,
-            "valence": 0.837,
-            "tempo": 125.038,
-            "type": "audio_features",
-            "id": "3ShKPhFkexrwl7WoyTtNND",
-            "uri": "spotify:track:3ShKPhFkexrwl7WoyTtNND",
-            "track_href": "https://api.spotify.com/v1/tracks/3ShKPhFkexrwl7WoyTtNND",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ShKPhFkexrwl7WoyTtNND",
-            "duration_ms": 170880,
             "time_signature": 4
         }
     },
@@ -845,6 +780,61 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN",
+        "id": "6Lk3kU7JcQ5dZ7jbmhJzQN",
+        "uri": "spotify:track:6Lk3kU7JcQ5dZ7jbmhJzQN",
+        "title": "Melhor Ser uma Saudade",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+                },
+                "href": "https://api.spotify.com/v1/artists/487N2T9nIPEHrlTZLL3SQs",
+                "id": "487N2T9nIPEHrlTZLL3SQs",
+                "name": "Z\u00e9 Neto & Cristiano",
+                "type": "artist",
+                "uri": "spotify:artist:487N2T9nIPEHrlTZLL3SQs"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738257463b4e1a0e4d32a8a11c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028257463b4e1a0e4d32a8a11c",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518257463b4e1a0e4d32a8a11c",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.687,
+            "energy": 0.589,
+            "key": 3,
+            "loudness": -4.244,
+            "mode": 1,
+            "speechiness": 0.0377,
+            "acousticness": 0.691,
+            "instrumentalness": 0,
+            "liveness": 0.0882,
+            "valence": 0.594,
+            "tempo": 109.482,
+            "type": "audio_features",
+            "id": "6Lk3kU7JcQ5dZ7jbmhJzQN",
+            "uri": "spotify:track:6Lk3kU7JcQ5dZ7jbmhJzQN",
+            "track_href": "https://api.spotify.com/v1/tracks/6Lk3kU7JcQ5dZ7jbmhJzQN",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Lk3kU7JcQ5dZ7jbmhJzQN",
+            "duration_ms": 158716,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH",
         "id": "0NBgyml7T0IvUNbXIkcSpH",
         "uri": "spotify:track:0NBgyml7T0IvUNbXIkcSpH",
@@ -920,61 +910,6 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN",
-        "id": "6Lk3kU7JcQ5dZ7jbmhJzQN",
-        "uri": "spotify:track:6Lk3kU7JcQ5dZ7jbmhJzQN",
-        "title": "Melhor Ser uma Saudade",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-                },
-                "href": "https://api.spotify.com/v1/artists/487N2T9nIPEHrlTZLL3SQs",
-                "id": "487N2T9nIPEHrlTZLL3SQs",
-                "name": "Z\u00e9 Neto & Cristiano",
-                "type": "artist",
-                "uri": "spotify:artist:487N2T9nIPEHrlTZLL3SQs"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738257463b4e1a0e4d32a8a11c",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028257463b4e1a0e4d32a8a11c",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518257463b4e1a0e4d32a8a11c",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.687,
-            "energy": 0.589,
-            "key": 3,
-            "loudness": -4.244,
-            "mode": 1,
-            "speechiness": 0.0377,
-            "acousticness": 0.691,
-            "instrumentalness": 0,
-            "liveness": 0.0882,
-            "valence": 0.594,
-            "tempo": 109.482,
-            "type": "audio_features",
-            "id": "6Lk3kU7JcQ5dZ7jbmhJzQN",
-            "uri": "spotify:track:6Lk3kU7JcQ5dZ7jbmhJzQN",
-            "track_href": "https://api.spotify.com/v1/tracks/6Lk3kU7JcQ5dZ7jbmhJzQN",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Lk3kU7JcQ5dZ7jbmhJzQN",
-            "duration_ms": 158716,
-            "time_signature": 4
-        }
-    },
-    {
         "url": "https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY",
         "id": "2wSCalnGOnXdAJC0Fn8OUY",
         "uri": "spotify:track:2wSCalnGOnXdAJC0Fn8OUY",
@@ -1040,166 +975,6 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ",
-        "id": "71fwkaKdNrxiZZbkzSqmFJ",
-        "uri": "spotify:track:71fwkaKdNrxiZZbkzSqmFJ",
-        "title": "Que Rab\u00e3o (feat. Mr. Catra)",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-                },
-                "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
-                "id": "7FNnA9vBm6EKceENgCGRMb",
-                "name": "Anitta",
-                "type": "artist",
-                "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-                },
-                "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
-                "id": "0A0FS04o6zMoto8OKPsDwY",
-                "name": "YG",
-                "type": "artist",
-                "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-                },
-                "href": "https://api.spotify.com/v1/artists/0iZz25uH5PLaShpqq84uYv",
-                "id": "0iZz25uH5PLaShpqq84uYv",
-                "name": "Papatinho",
-                "type": "artist",
-                "uri": "spotify:artist:0iZz25uH5PLaShpqq84uYv"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-                },
-                "href": "https://api.spotify.com/v1/artists/2UMj7NCbuqy1yUZmiSYGjJ",
-                "id": "2UMj7NCbuqy1yUZmiSYGjJ",
-                "name": "MC Kevin o Chris",
-                "type": "artist",
-                "uri": "spotify:artist:2UMj7NCbuqy1yUZmiSYGjJ"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE"
-                },
-                "href": "https://api.spotify.com/v1/artists/1mXaaMbQM3IYuhNWaZdFuE",
-                "id": "1mXaaMbQM3IYuhNWaZdFuE",
-                "name": "Mr. Catra",
-                "type": "artist",
-                "uri": "spotify:artist:1mXaaMbQM3IYuhNWaZdFuE"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27396e2642422ad16661e673fa2",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0296e2642422ad16661e673fa2",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485196e2642422ad16661e673fa2",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.874,
-            "energy": 0.654,
-            "key": 0,
-            "loudness": -5.529,
-            "mode": 0,
-            "speechiness": 0.309,
-            "acousticness": 0.197,
-            "instrumentalness": 0,
-            "liveness": 0.182,
-            "valence": 0.642,
-            "tempo": 150.016,
-            "type": "audio_features",
-            "id": "71fwkaKdNrxiZZbkzSqmFJ",
-            "uri": "spotify:track:71fwkaKdNrxiZZbkzSqmFJ",
-            "track_href": "https://api.spotify.com/v1/tracks/71fwkaKdNrxiZZbkzSqmFJ",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/71fwkaKdNrxiZZbkzSqmFJ",
-            "duration_ms": 176194,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O",
-        "id": "75fCsUnTiDelE4HMd06t4O",
-        "uri": "spotify:track:75fCsUnTiDelE4HMd06t4O",
-        "title": "Gostosinho Tu Cai",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G"
-                },
-                "href": "https://api.spotify.com/v1/artists/3THyxXDkvAVvmfZKP3Fq7G",
-                "id": "3THyxXDkvAVvmfZKP3Fq7G",
-                "name": "Mc Pepeu",
-                "type": "artist",
-                "uri": "spotify:artist:3THyxXDkvAVvmfZKP3Fq7G"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
-                },
-                "href": "https://api.spotify.com/v1/artists/3JrsRa8z1Pngkkf4pDrokD",
-                "id": "3JrsRa8z1Pngkkf4pDrokD",
-                "name": "DJ Swat",
-                "type": "artist",
-                "uri": "spotify:artist:3JrsRa8z1Pngkkf4pDrokD"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736a8ad8b40e32a80f390a741e",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e026a8ad8b40e32a80f390a741e",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048516a8ad8b40e32a80f390a741e",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.739,
-            "energy": 0.414,
-            "key": 10,
-            "loudness": -8.146,
-            "mode": 0,
-            "speechiness": 0.0481,
-            "acousticness": 0.902,
-            "instrumentalness": 0.00284,
-            "liveness": 0.133,
-            "valence": 0.505,
-            "tempo": 130.039,
-            "type": "audio_features",
-            "id": "75fCsUnTiDelE4HMd06t4O",
-            "uri": "spotify:track:75fCsUnTiDelE4HMd06t4O",
-            "track_href": "https://api.spotify.com/v1/tracks/75fCsUnTiDelE4HMd06t4O",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/75fCsUnTiDelE4HMd06t4O",
-            "duration_ms": 132923,
-            "time_signature": 4
-        }
-    },
-    {
         "url": "https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh",
         "id": "6nkoWsFZeFt5dUdNmlIceh",
         "uri": "spotify:track:6nkoWsFZeFt5dUdNmlIceh",
@@ -1251,246 +1026,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/6nkoWsFZeFt5dUdNmlIceh",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/6nkoWsFZeFt5dUdNmlIceh",
             "duration_ms": 168689,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp",
-        "id": "4a0sqvCBo7aRIS4GzBQpnp",
-        "uri": "spotify:track:4a0sqvCBo7aRIS4GzBQpnp",
-        "title": "Kikando e Me Olhando",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-                },
-                "href": "https://api.spotify.com/v1/artists/7htxZTR76qcXYJylEmkLiJ",
-                "id": "7htxZTR76qcXYJylEmkLiJ",
-                "name": "MC Braz",
-                "type": "artist",
-                "uri": "spotify:artist:7htxZTR76qcXYJylEmkLiJ"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-                },
-                "href": "https://api.spotify.com/v1/artists/7ujbuq6hAjLSf7cGr6au0b",
-                "id": "7ujbuq6hAjLSf7cGr6au0b",
-                "name": "MC Tairon",
-                "type": "artist",
-                "uri": "spotify:artist:7ujbuq6hAjLSf7cGr6au0b"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
-                },
-                "href": "https://api.spotify.com/v1/artists/04NtfTeul9H9B41tPvF3MG",
-                "id": "04NtfTeul9H9B41tPvF3MG",
-                "name": "Dj Win",
-                "type": "artist",
-                "uri": "spotify:artist:04NtfTeul9H9B41tPvF3MG"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a4ceb95ad7e403c63b0fe231",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02a4ceb95ad7e403c63b0fe231",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851a4ceb95ad7e403c63b0fe231",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.742,
-            "energy": 0.439,
-            "key": 3,
-            "loudness": -5.141,
-            "mode": 0,
-            "speechiness": 0.28,
-            "acousticness": 0.637,
-            "instrumentalness": 0,
-            "liveness": 0.0876,
-            "valence": 0.842,
-            "tempo": 85.974,
-            "type": "audio_features",
-            "id": "4a0sqvCBo7aRIS4GzBQpnp",
-            "uri": "spotify:track:4a0sqvCBo7aRIS4GzBQpnp",
-            "track_href": "https://api.spotify.com/v1/tracks/4a0sqvCBo7aRIS4GzBQpnp",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4a0sqvCBo7aRIS4GzBQpnp",
-            "duration_ms": 210461,
-            "time_signature": 3
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0",
-        "id": "7gVzhRCrLRUBEGdS7zNTp0",
-        "uri": "spotify:track:7gVzhRCrLRUBEGdS7zNTp0",
-        "title": "Malvada",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-                },
-                "href": "https://api.spotify.com/v1/artists/7cmuxPnXRJxwuYDHfbD8Eu",
-                "id": "7cmuxPnXRJxwuYDHfbD8Eu",
-                "name": "Z\u00e9 Felipe",
-                "type": "artist",
-                "uri": "spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731c9b6c99ea2cccf714dd61f1",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e021c9b6c99ea2cccf714dd61f1",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048511c9b6c99ea2cccf714dd61f1",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.894,
-            "energy": 0.859,
-            "key": 5,
-            "loudness": -2.981,
-            "mode": 0,
-            "speechiness": 0.0471,
-            "acousticness": 0.159,
-            "instrumentalness": 0.000153,
-            "liveness": 0.075,
-            "valence": 0.888,
-            "tempo": 134.947,
-            "type": "audio_features",
-            "id": "7gVzhRCrLRUBEGdS7zNTp0",
-            "uri": "spotify:track:7gVzhRCrLRUBEGdS7zNTp0",
-            "track_href": "https://api.spotify.com/v1/tracks/7gVzhRCrLRUBEGdS7zNTp0",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7gVzhRCrLRUBEGdS7zNTp0",
-            "duration_ms": 145854,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u",
-        "id": "4NJKCE1TBC653P3dCnto0u",
-        "uri": "spotify:track:4NJKCE1TBC653P3dCnto0u",
-        "title": "Simplesmente Ela",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-                },
-                "href": "https://api.spotify.com/v1/artists/5RmXJq0g7MNmgtxXLGbd6K",
-                "id": "5RmXJq0g7MNmgtxXLGbd6K",
-                "name": "Mc Gabzin",
-                "type": "artist",
-                "uri": "spotify:artist:5RmXJq0g7MNmgtxXLGbd6K"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738f582abe85ed839a84b04212",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028f582abe85ed839a84b04212",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518f582abe85ed839a84b04212",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.572,
-            "energy": 0.616,
-            "key": 4,
-            "loudness": -2.609,
-            "mode": 0,
-            "speechiness": 0.083,
-            "acousticness": 0.227,
-            "instrumentalness": 0,
-            "liveness": 0.0728,
-            "valence": 0.545,
-            "tempo": 83.04,
-            "type": "audio_features",
-            "id": "4NJKCE1TBC653P3dCnto0u",
-            "uri": "spotify:track:4NJKCE1TBC653P3dCnto0u",
-            "track_href": "https://api.spotify.com/v1/tracks/4NJKCE1TBC653P3dCnto0u",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4NJKCE1TBC653P3dCnto0u",
-            "duration_ms": 161077,
-            "time_signature": 3
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/14JKzKrJbPDflw8XyATMey",
-        "id": "14JKzKrJbPDflw8XyATMey",
-        "uri": "spotify:track:14JKzKrJbPDflw8XyATMey",
-        "title": "A Maior Saudade - Ao Vivo",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-                },
-                "href": "https://api.spotify.com/v1/artists/3p7PcrEHaaKLJnPUGOtRlT",
-                "id": "3p7PcrEHaaKLJnPUGOtRlT",
-                "name": "Henrique & Juliano",
-                "type": "artist",
-                "uri": "spotify:artist:3p7PcrEHaaKLJnPUGOtRlT"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27345014fbe5ca34ecb25994c57",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0245014fbe5ca34ecb25994c57",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485145014fbe5ca34ecb25994c57",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.292,
-            "energy": 0.626,
-            "key": 11,
-            "loudness": -4.78,
-            "mode": 1,
-            "speechiness": 0.0533,
-            "acousticness": 0.571,
-            "instrumentalness": 0,
-            "liveness": 0.87,
-            "valence": 0.305,
-            "tempo": 162.824,
-            "type": "audio_features",
-            "id": "14JKzKrJbPDflw8XyATMey",
-            "uri": "spotify:track:14JKzKrJbPDflw8XyATMey",
-            "track_href": "https://api.spotify.com/v1/tracks/14JKzKrJbPDflw8XyATMey",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/14JKzKrJbPDflw8XyATMey",
-            "duration_ms": 190162,
             "time_signature": 4
         }
     },
@@ -1550,67 +1085,122 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M",
-        "id": "6pojmlhRI1fBUNg0pZSA9M",
-        "uri": "spotify:track:6pojmlhRI1fBUNg0pZSA9M",
-        "title": "Eu Bem Que Te Avisei - Tu Empurrou Ele Pei",
+        "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND",
+        "id": "3ShKPhFkexrwl7WoyTtNND",
+        "uri": "spotify:track:3ShKPhFkexrwl7WoyTtNND",
+        "title": "Tchuco Nela",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+                    "spotify": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
                 },
-                "href": "https://api.spotify.com/v1/artists/3l4fsEzoeabsET7ddv0lZW",
-                "id": "3l4fsEzoeabsET7ddv0lZW",
-                "name": "Mc Delux",
+                "href": "https://api.spotify.com/v1/artists/5JbQpbeFaKfuZVFzKwaawP",
+                "id": "5JbQpbeFaKfuZVFzKwaawP",
+                "name": "MC Rogerinho",
                 "type": "artist",
-                "uri": "spotify:artist:3l4fsEzoeabsET7ddv0lZW"
+                "uri": "spotify:artist:5JbQpbeFaKfuZVFzKwaawP"
             },
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw"
+                    "spotify": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
                 },
-                "href": "https://api.spotify.com/v1/artists/5g1Ojx0MsvmNEjnVKGmHVw",
-                "id": "5g1Ojx0MsvmNEjnVKGmHVw",
-                "name": "DJ ABDO",
+                "href": "https://api.spotify.com/v1/artists/1AL2GKpmRrKXkYIcASuRFa",
+                "id": "1AL2GKpmRrKXkYIcASuRFa",
+                "name": "Wesley Safad\u00e3o",
                 "type": "artist",
-                "uri": "spotify:artist:5g1Ojx0MsvmNEjnVKGmHVw"
+                "uri": "spotify:artist:1AL2GKpmRrKXkYIcASuRFa"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e7c8cc513c6c5c215cc405b2",
+                "url": "https://i.scdn.co/image/ab67616d0000b27366bd16a15930d24472b74321",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02e7c8cc513c6c5c215cc405b2",
+                "url": "https://i.scdn.co/image/ab67616d00001e0266bd16a15930d24472b74321",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851e7c8cc513c6c5c215cc405b2",
+                "url": "https://i.scdn.co/image/ab67616d0000485166bd16a15930d24472b74321",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.955,
-            "energy": 0.659,
-            "key": 0,
-            "loudness": -3.531,
+            "danceability": 0.802,
+            "energy": 0.727,
+            "key": 9,
+            "loudness": -4.968,
             "mode": 0,
-            "speechiness": 0.382,
-            "acousticness": 0.411,
-            "instrumentalness": 0.00731,
-            "liveness": 0.148,
-            "valence": 0.495,
-            "tempo": 129.962,
+            "speechiness": 0.0307,
+            "acousticness": 0.413,
+            "instrumentalness": 0,
+            "liveness": 0.0713,
+            "valence": 0.837,
+            "tempo": 125.038,
             "type": "audio_features",
-            "id": "6pojmlhRI1fBUNg0pZSA9M",
-            "uri": "spotify:track:6pojmlhRI1fBUNg0pZSA9M",
-            "track_href": "https://api.spotify.com/v1/tracks/6pojmlhRI1fBUNg0pZSA9M",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pojmlhRI1fBUNg0pZSA9M",
-            "duration_ms": 158769,
+            "id": "3ShKPhFkexrwl7WoyTtNND",
+            "uri": "spotify:track:3ShKPhFkexrwl7WoyTtNND",
+            "track_href": "https://api.spotify.com/v1/tracks/3ShKPhFkexrwl7WoyTtNND",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ShKPhFkexrwl7WoyTtNND",
+            "duration_ms": 170880,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0",
+        "id": "7gVzhRCrLRUBEGdS7zNTp0",
+        "uri": "spotify:track:7gVzhRCrLRUBEGdS7zNTp0",
+        "title": "Malvada",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+                },
+                "href": "https://api.spotify.com/v1/artists/7cmuxPnXRJxwuYDHfbD8Eu",
+                "id": "7cmuxPnXRJxwuYDHfbD8Eu",
+                "name": "Z\u00e9 Felipe",
+                "type": "artist",
+                "uri": "spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731c9b6c99ea2cccf714dd61f1",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021c9b6c99ea2cccf714dd61f1",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511c9b6c99ea2cccf714dd61f1",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.894,
+            "energy": 0.859,
+            "key": 5,
+            "loudness": -2.981,
+            "mode": 0,
+            "speechiness": 0.0471,
+            "acousticness": 0.159,
+            "instrumentalness": 0.000153,
+            "liveness": 0.075,
+            "valence": 0.888,
+            "tempo": 134.947,
+            "type": "audio_features",
+            "id": "7gVzhRCrLRUBEGdS7zNTp0",
+            "uri": "spotify:track:7gVzhRCrLRUBEGdS7zNTp0",
+            "track_href": "https://api.spotify.com/v1/tracks/7gVzhRCrLRUBEGdS7zNTp0",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7gVzhRCrLRUBEGdS7zNTp0",
+            "duration_ms": 145854,
             "time_signature": 4
         }
     },
@@ -1725,6 +1315,211 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/14JKzKrJbPDflw8XyATMey",
+        "id": "14JKzKrJbPDflw8XyATMey",
+        "uri": "spotify:track:14JKzKrJbPDflw8XyATMey",
+        "title": "A Maior Saudade - Ao Vivo",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3p7PcrEHaaKLJnPUGOtRlT",
+                "id": "3p7PcrEHaaKLJnPUGOtRlT",
+                "name": "Henrique & Juliano",
+                "type": "artist",
+                "uri": "spotify:artist:3p7PcrEHaaKLJnPUGOtRlT"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27345014fbe5ca34ecb25994c57",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0245014fbe5ca34ecb25994c57",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485145014fbe5ca34ecb25994c57",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.292,
+            "energy": 0.626,
+            "key": 11,
+            "loudness": -4.78,
+            "mode": 1,
+            "speechiness": 0.0533,
+            "acousticness": 0.571,
+            "instrumentalness": 0,
+            "liveness": 0.87,
+            "valence": 0.305,
+            "tempo": 162.824,
+            "type": "audio_features",
+            "id": "14JKzKrJbPDflw8XyATMey",
+            "uri": "spotify:track:14JKzKrJbPDflw8XyATMey",
+            "track_href": "https://api.spotify.com/v1/tracks/14JKzKrJbPDflw8XyATMey",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/14JKzKrJbPDflw8XyATMey",
+            "duration_ms": 190162,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ",
+        "id": "71fwkaKdNrxiZZbkzSqmFJ",
+        "uri": "spotify:track:71fwkaKdNrxiZZbkzSqmFJ",
+        "title": "Que Rab\u00e3o (feat. Mr. Catra)",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+                },
+                "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+                "id": "7FNnA9vBm6EKceENgCGRMb",
+                "name": "Anitta",
+                "type": "artist",
+                "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+                },
+                "href": "https://api.spotify.com/v1/artists/0A0FS04o6zMoto8OKPsDwY",
+                "id": "0A0FS04o6zMoto8OKPsDwY",
+                "name": "YG",
+                "type": "artist",
+                "uri": "spotify:artist:0A0FS04o6zMoto8OKPsDwY"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+                },
+                "href": "https://api.spotify.com/v1/artists/0iZz25uH5PLaShpqq84uYv",
+                "id": "0iZz25uH5PLaShpqq84uYv",
+                "name": "Papatinho",
+                "type": "artist",
+                "uri": "spotify:artist:0iZz25uH5PLaShpqq84uYv"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+                },
+                "href": "https://api.spotify.com/v1/artists/2UMj7NCbuqy1yUZmiSYGjJ",
+                "id": "2UMj7NCbuqy1yUZmiSYGjJ",
+                "name": "MC Kevin o Chris",
+                "type": "artist",
+                "uri": "spotify:artist:2UMj7NCbuqy1yUZmiSYGjJ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1mXaaMbQM3IYuhNWaZdFuE"
+                },
+                "href": "https://api.spotify.com/v1/artists/1mXaaMbQM3IYuhNWaZdFuE",
+                "id": "1mXaaMbQM3IYuhNWaZdFuE",
+                "name": "Mr. Catra",
+                "type": "artist",
+                "uri": "spotify:artist:1mXaaMbQM3IYuhNWaZdFuE"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27396e2642422ad16661e673fa2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0296e2642422ad16661e673fa2",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485196e2642422ad16661e673fa2",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.874,
+            "energy": 0.654,
+            "key": 0,
+            "loudness": -5.529,
+            "mode": 0,
+            "speechiness": 0.309,
+            "acousticness": 0.197,
+            "instrumentalness": 0,
+            "liveness": 0.182,
+            "valence": 0.642,
+            "tempo": 150.016,
+            "type": "audio_features",
+            "id": "71fwkaKdNrxiZZbkzSqmFJ",
+            "uri": "spotify:track:71fwkaKdNrxiZZbkzSqmFJ",
+            "track_href": "https://api.spotify.com/v1/tracks/71fwkaKdNrxiZZbkzSqmFJ",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/71fwkaKdNrxiZZbkzSqmFJ",
+            "duration_ms": 176194,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u",
+        "id": "4NJKCE1TBC653P3dCnto0u",
+        "uri": "spotify:track:4NJKCE1TBC653P3dCnto0u",
+        "title": "Simplesmente Ela",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+                },
+                "href": "https://api.spotify.com/v1/artists/5RmXJq0g7MNmgtxXLGbd6K",
+                "id": "5RmXJq0g7MNmgtxXLGbd6K",
+                "name": "Mc Gabzin",
+                "type": "artist",
+                "uri": "spotify:artist:5RmXJq0g7MNmgtxXLGbd6K"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738f582abe85ed839a84b04212",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028f582abe85ed839a84b04212",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518f582abe85ed839a84b04212",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.572,
+            "energy": 0.616,
+            "key": 4,
+            "loudness": -2.609,
+            "mode": 0,
+            "speechiness": 0.083,
+            "acousticness": 0.227,
+            "instrumentalness": 0,
+            "liveness": 0.0728,
+            "valence": 0.545,
+            "tempo": 83.04,
+            "type": "audio_features",
+            "id": "4NJKCE1TBC653P3dCnto0u",
+            "uri": "spotify:track:4NJKCE1TBC653P3dCnto0u",
+            "track_href": "https://api.spotify.com/v1/tracks/4NJKCE1TBC653P3dCnto0u",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4NJKCE1TBC653P3dCnto0u",
+            "duration_ms": 161077,
+            "time_signature": 3
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP",
         "id": "3XF598RmEUF3XW4XKo1lyP",
         "uri": "spotify:track:3XF598RmEUF3XW4XKo1lyP",
@@ -1790,57 +1585,207 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq",
-        "id": "546dFmvwFGBY7MJOkV5ctq",
-        "uri": "spotify:track:546dFmvwFGBY7MJOkV5ctq",
-        "title": "Todo Seu - Ao Vivo",
+        "url": "https://open.spotify.com/track/4a0sqvCBo7aRIS4GzBQpnp",
+        "id": "4a0sqvCBo7aRIS4GzBQpnp",
+        "uri": "spotify:track:4a0sqvCBo7aRIS4GzBQpnp",
+        "title": "Kikando e Me Olhando",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+                    "spotify": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
                 },
-                "href": "https://api.spotify.com/v1/artists/1elUiq4X7pxej6FRlrEzjM",
-                "id": "1elUiq4X7pxej6FRlrEzjM",
-                "name": "Jorge & Mateus",
+                "href": "https://api.spotify.com/v1/artists/7htxZTR76qcXYJylEmkLiJ",
+                "id": "7htxZTR76qcXYJylEmkLiJ",
+                "name": "MC Braz",
                 "type": "artist",
-                "uri": "spotify:artist:1elUiq4X7pxej6FRlrEzjM"
+                "uri": "spotify:artist:7htxZTR76qcXYJylEmkLiJ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
+                },
+                "href": "https://api.spotify.com/v1/artists/7ujbuq6hAjLSf7cGr6au0b",
+                "id": "7ujbuq6hAjLSf7cGr6au0b",
+                "name": "MC Tairon",
+                "type": "artist",
+                "uri": "spotify:artist:7ujbuq6hAjLSf7cGr6au0b"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG"
+                },
+                "href": "https://api.spotify.com/v1/artists/04NtfTeul9H9B41tPvF3MG",
+                "id": "04NtfTeul9H9B41tPvF3MG",
+                "name": "Dj Win",
+                "type": "artist",
+                "uri": "spotify:artist:04NtfTeul9H9B41tPvF3MG"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ae869710c8625f1957bada66",
+                "url": "https://i.scdn.co/image/ab67616d0000b273a4ceb95ad7e403c63b0fe231",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ae869710c8625f1957bada66",
+                "url": "https://i.scdn.co/image/ab67616d00001e02a4ceb95ad7e403c63b0fe231",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ae869710c8625f1957bada66",
+                "url": "https://i.scdn.co/image/ab67616d00004851a4ceb95ad7e403c63b0fe231",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.632,
-            "energy": 0.817,
-            "key": 7,
-            "loudness": -5.028,
-            "mode": 1,
-            "speechiness": 0.122,
-            "acousticness": 0.3,
+            "danceability": 0.742,
+            "energy": 0.439,
+            "key": 3,
+            "loudness": -5.141,
+            "mode": 0,
+            "speechiness": 0.28,
+            "acousticness": 0.637,
             "instrumentalness": 0,
-            "liveness": 0.573,
-            "valence": 0.68,
-            "tempo": 151.993,
+            "liveness": 0.0876,
+            "valence": 0.842,
+            "tempo": 85.974,
             "type": "audio_features",
-            "id": "546dFmvwFGBY7MJOkV5ctq",
-            "uri": "spotify:track:546dFmvwFGBY7MJOkV5ctq",
-            "track_href": "https://api.spotify.com/v1/tracks/546dFmvwFGBY7MJOkV5ctq",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/546dFmvwFGBY7MJOkV5ctq",
-            "duration_ms": 171712,
+            "id": "4a0sqvCBo7aRIS4GzBQpnp",
+            "uri": "spotify:track:4a0sqvCBo7aRIS4GzBQpnp",
+            "track_href": "https://api.spotify.com/v1/tracks/4a0sqvCBo7aRIS4GzBQpnp",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4a0sqvCBo7aRIS4GzBQpnp",
+            "duration_ms": 210461,
+            "time_signature": 3
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O",
+        "id": "75fCsUnTiDelE4HMd06t4O",
+        "uri": "spotify:track:75fCsUnTiDelE4HMd06t4O",
+        "title": "Gostosinho Tu Cai",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G"
+                },
+                "href": "https://api.spotify.com/v1/artists/3THyxXDkvAVvmfZKP3Fq7G",
+                "id": "3THyxXDkvAVvmfZKP3Fq7G",
+                "name": "Mc Pepeu",
+                "type": "artist",
+                "uri": "spotify:artist:3THyxXDkvAVvmfZKP3Fq7G"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD"
+                },
+                "href": "https://api.spotify.com/v1/artists/3JrsRa8z1Pngkkf4pDrokD",
+                "id": "3JrsRa8z1Pngkkf4pDrokD",
+                "name": "DJ Swat",
+                "type": "artist",
+                "uri": "spotify:artist:3JrsRa8z1Pngkkf4pDrokD"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736a8ad8b40e32a80f390a741e",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026a8ad8b40e32a80f390a741e",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516a8ad8b40e32a80f390a741e",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.739,
+            "energy": 0.414,
+            "key": 10,
+            "loudness": -8.146,
+            "mode": 0,
+            "speechiness": 0.0481,
+            "acousticness": 0.902,
+            "instrumentalness": 0.00284,
+            "liveness": 0.133,
+            "valence": 0.505,
+            "tempo": 130.039,
+            "type": "audio_features",
+            "id": "75fCsUnTiDelE4HMd06t4O",
+            "uri": "spotify:track:75fCsUnTiDelE4HMd06t4O",
+            "track_href": "https://api.spotify.com/v1/tracks/75fCsUnTiDelE4HMd06t4O",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/75fCsUnTiDelE4HMd06t4O",
+            "duration_ms": 132923,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/6pojmlhRI1fBUNg0pZSA9M",
+        "id": "6pojmlhRI1fBUNg0pZSA9M",
+        "uri": "spotify:track:6pojmlhRI1fBUNg0pZSA9M",
+        "title": "Eu Bem Que Te Avisei - Tu Empurrou Ele Pei",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+                },
+                "href": "https://api.spotify.com/v1/artists/3l4fsEzoeabsET7ddv0lZW",
+                "id": "3l4fsEzoeabsET7ddv0lZW",
+                "name": "Mc Delux",
+                "type": "artist",
+                "uri": "spotify:artist:3l4fsEzoeabsET7ddv0lZW"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw"
+                },
+                "href": "https://api.spotify.com/v1/artists/5g1Ojx0MsvmNEjnVKGmHVw",
+                "id": "5g1Ojx0MsvmNEjnVKGmHVw",
+                "name": "DJ ABDO",
+                "type": "artist",
+                "uri": "spotify:artist:5g1Ojx0MsvmNEjnVKGmHVw"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e7c8cc513c6c5c215cc405b2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e7c8cc513c6c5c215cc405b2",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e7c8cc513c6c5c215cc405b2",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.955,
+            "energy": 0.659,
+            "key": 0,
+            "loudness": -3.531,
+            "mode": 0,
+            "speechiness": 0.382,
+            "acousticness": 0.411,
+            "instrumentalness": 0.00731,
+            "liveness": 0.148,
+            "valence": 0.495,
+            "tempo": 129.962,
+            "type": "audio_features",
+            "id": "6pojmlhRI1fBUNg0pZSA9M",
+            "uri": "spotify:track:6pojmlhRI1fBUNg0pZSA9M",
+            "track_href": "https://api.spotify.com/v1/tracks/6pojmlhRI1fBUNg0pZSA9M",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6pojmlhRI1fBUNg0pZSA9M",
+            "duration_ms": 158769,
             "time_signature": 4
         }
     },
@@ -1965,61 +1910,6 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy",
-        "id": "0qYW2jULeN9giEty0ee9Fy",
-        "uri": "spotify:track:0qYW2jULeN9giEty0ee9Fy",
-        "title": "Botadinha Saliente",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-                },
-                "href": "https://api.spotify.com/v1/artists/5JbQpbeFaKfuZVFzKwaawP",
-                "id": "5JbQpbeFaKfuZVFzKwaawP",
-                "name": "MC Rogerinho",
-                "type": "artist",
-                "uri": "spotify:artist:5JbQpbeFaKfuZVFzKwaawP"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27314174850fb09c2766187e90a",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0214174850fb09c2766187e90a",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485114174850fb09c2766187e90a",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.985,
-            "energy": 0.698,
-            "key": 0,
-            "loudness": -2.531,
-            "mode": 1,
-            "speechiness": 0.0341,
-            "acousticness": 0.142,
-            "instrumentalness": 0,
-            "liveness": 0.321,
-            "valence": 0.914,
-            "tempo": 119.959,
-            "type": "audio_features",
-            "id": "0qYW2jULeN9giEty0ee9Fy",
-            "uri": "spotify:track:0qYW2jULeN9giEty0ee9Fy",
-            "track_href": "https://api.spotify.com/v1/tracks/0qYW2jULeN9giEty0ee9Fy",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qYW2jULeN9giEty0ee9Fy",
-            "duration_ms": 158000,
-            "time_signature": 4
-        }
-    },
-    {
         "url": "https://open.spotify.com/track/0tM4J8aID6qYZOE3e14sCj",
         "id": "0tM4J8aID6qYZOE3e14sCj",
         "uri": "spotify:track:0tM4J8aID6qYZOE3e14sCj",
@@ -2071,6 +1961,61 @@
             "track_href": "https://api.spotify.com/v1/tracks/0tM4J8aID6qYZOE3e14sCj",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/0tM4J8aID6qYZOE3e14sCj",
             "duration_ms": 169772,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy",
+        "id": "0qYW2jULeN9giEty0ee9Fy",
+        "uri": "spotify:track:0qYW2jULeN9giEty0ee9Fy",
+        "title": "Botadinha Saliente",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+                },
+                "href": "https://api.spotify.com/v1/artists/5JbQpbeFaKfuZVFzKwaawP",
+                "id": "5JbQpbeFaKfuZVFzKwaawP",
+                "name": "MC Rogerinho",
+                "type": "artist",
+                "uri": "spotify:artist:5JbQpbeFaKfuZVFzKwaawP"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27314174850fb09c2766187e90a",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0214174850fb09c2766187e90a",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485114174850fb09c2766187e90a",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.985,
+            "energy": 0.698,
+            "key": 0,
+            "loudness": -2.531,
+            "mode": 1,
+            "speechiness": 0.0341,
+            "acousticness": 0.142,
+            "instrumentalness": 0,
+            "liveness": 0.321,
+            "valence": 0.914,
+            "tempo": 119.959,
+            "type": "audio_features",
+            "id": "0qYW2jULeN9giEty0ee9Fy",
+            "uri": "spotify:track:0qYW2jULeN9giEty0ee9Fy",
+            "track_href": "https://api.spotify.com/v1/tracks/0qYW2jULeN9giEty0ee9Fy",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qYW2jULeN9giEty0ee9Fy",
+            "duration_ms": 158000,
             "time_signature": 4
         }
     },
@@ -2181,61 +2126,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/2ebFBmle5uXcdbrCAOvPcZ",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ebFBmle5uXcdbrCAOvPcZ",
             "duration_ms": 161846,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U",
-        "id": "6Ulh9GPYz6JKdv04qc3q2U",
-        "uri": "spotify:track:6Ulh9GPYz6JKdv04qc3q2U",
-        "title": "Dengo",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-                },
-                "href": "https://api.spotify.com/v1/artists/4JNo6Q5KdcRf1vtSX9mB0S",
-                "id": "4JNo6Q5KdcRf1vtSX9mB0S",
-                "name": "Jo\u00e3o Gomes",
-                "type": "artist",
-                "uri": "spotify:artist:4JNo6Q5KdcRf1vtSX9mB0S"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d9f8cabe2853c99a6b814a80",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02d9f8cabe2853c99a6b814a80",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851d9f8cabe2853c99a6b814a80",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.646,
-            "energy": 0.918,
-            "key": 9,
-            "loudness": -4.112,
-            "mode": 1,
-            "speechiness": 0.0346,
-            "acousticness": 0.382,
-            "instrumentalness": 1.87e-05,
-            "liveness": 0.251,
-            "valence": 0.87,
-            "tempo": 143.943,
-            "type": "audio_features",
-            "id": "6Ulh9GPYz6JKdv04qc3q2U",
-            "uri": "spotify:track:6Ulh9GPYz6JKdv04qc3q2U",
-            "track_href": "https://api.spotify.com/v1/tracks/6Ulh9GPYz6JKdv04qc3q2U",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Ulh9GPYz6JKdv04qc3q2U",
-            "duration_ms": 153958,
             "time_signature": 4
         }
     },
@@ -2356,156 +2246,6 @@
             "track_href": "https://api.spotify.com/v1/tracks/4EVzu5mYyigjyLrryKbZs7",
             "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EVzu5mYyigjyLrryKbZs7",
             "duration_ms": 152690,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF",
-        "id": "72g37RoelSnovZakG5MwnF",
-        "uri": "spotify:track:72g37RoelSnovZakG5MwnF",
-        "title": "Parada Louca",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-                },
-                "href": "https://api.spotify.com/v1/artists/0BHm7qbh3ENxvXzkQAG7MP",
-                "id": "0BHm7qbh3ENxvXzkQAG7MP",
-                "name": "Mari Fernandez",
-                "type": "artist",
-                "uri": "spotify:artist:0BHm7qbh3ENxvXzkQAG7MP"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
-                },
-                "href": "https://api.spotify.com/v1/artists/4dnPDc045bVjibyATxVUOs",
-                "id": "4dnPDc045bVjibyATxVUOs",
-                "name": "Marcynho Sensa\u00e7\u00e3o",
-                "type": "artist",
-                "uri": "spotify:artist:4dnPDc045bVjibyATxVUOs"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737a2679c72a3e5626d1289f20",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e027a2679c72a3e5626d1289f20",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048517a2679c72a3e5626d1289f20",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.693,
-            "energy": 0.936,
-            "key": 7,
-            "loudness": -1.322,
-            "mode": 1,
-            "speechiness": 0.0524,
-            "acousticness": 0.302,
-            "instrumentalness": 0,
-            "liveness": 0.339,
-            "valence": 0.835,
-            "tempo": 166.034,
-            "type": "audio_features",
-            "id": "72g37RoelSnovZakG5MwnF",
-            "uri": "spotify:track:72g37RoelSnovZakG5MwnF",
-            "track_href": "https://api.spotify.com/v1/tracks/72g37RoelSnovZakG5MwnF",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/72g37RoelSnovZakG5MwnF",
-            "duration_ms": 179032,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR",
-        "id": "7HjZD0NPC1hzFpjUjo45GR",
-        "uri": "spotify:track:7HjZD0NPC1hzFpjUjo45GR",
-        "title": "Me Sinto Aben\u00e7oado",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-                },
-                "href": "https://api.spotify.com/v1/artists/28ie4NNTa2VW2QV4Zray8M",
-                "id": "28ie4NNTa2VW2QV4Zray8M",
-                "name": "Mc Poze do Rodo",
-                "type": "artist",
-                "uri": "spotify:artist:28ie4NNTa2VW2QV4Zray8M"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-                },
-                "href": "https://api.spotify.com/v1/artists/7gJN8W0589FisSYJS17K54",
-                "id": "7gJN8W0589FisSYJS17K54",
-                "name": "Filipe Ret",
-                "type": "artist",
-                "uri": "spotify:artist:7gJN8W0589FisSYJS17K54"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-                },
-                "href": "https://api.spotify.com/v1/artists/25XJqeReVV38w0tR04GGBd",
-                "id": "25XJqeReVV38w0tR04GGBd",
-                "name": "Mainstreet",
-                "type": "artist",
-                "uri": "spotify:artist:25XJqeReVV38w0tR04GGBd"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-                },
-                "href": "https://api.spotify.com/v1/artists/0y7B2G0jNMGWyQJsOoRMUt",
-                "id": "0y7B2G0jNMGWyQJsOoRMUt",
-                "name": "Ajaxx",
-                "type": "artist",
-                "uri": "spotify:artist:0y7B2G0jNMGWyQJsOoRMUt"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27318c79875042f87e746cc3c48",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0218c79875042f87e746cc3c48",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485118c79875042f87e746cc3c48",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.729,
-            "energy": 0.596,
-            "key": 0,
-            "loudness": -5.101,
-            "mode": 1,
-            "speechiness": 0.0607,
-            "acousticness": 0.463,
-            "instrumentalness": 0,
-            "liveness": 0.18,
-            "valence": 0.319,
-            "tempo": 117.918,
-            "type": "audio_features",
-            "id": "7HjZD0NPC1hzFpjUjo45GR",
-            "uri": "spotify:track:7HjZD0NPC1hzFpjUjo45GR",
-            "track_href": "https://api.spotify.com/v1/tracks/7HjZD0NPC1hzFpjUjo45GR",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HjZD0NPC1hzFpjUjo45GR",
-            "duration_ms": 214236,
             "time_signature": 4
         }
     },
@@ -2655,6 +2395,221 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR",
+        "id": "7HjZD0NPC1hzFpjUjo45GR",
+        "uri": "spotify:track:7HjZD0NPC1hzFpjUjo45GR",
+        "title": "Me Sinto Aben\u00e7oado",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+                },
+                "href": "https://api.spotify.com/v1/artists/28ie4NNTa2VW2QV4Zray8M",
+                "id": "28ie4NNTa2VW2QV4Zray8M",
+                "name": "Mc Poze do Rodo",
+                "type": "artist",
+                "uri": "spotify:artist:28ie4NNTa2VW2QV4Zray8M"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+                },
+                "href": "https://api.spotify.com/v1/artists/7gJN8W0589FisSYJS17K54",
+                "id": "7gJN8W0589FisSYJS17K54",
+                "name": "Filipe Ret",
+                "type": "artist",
+                "uri": "spotify:artist:7gJN8W0589FisSYJS17K54"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+                },
+                "href": "https://api.spotify.com/v1/artists/25XJqeReVV38w0tR04GGBd",
+                "id": "25XJqeReVV38w0tR04GGBd",
+                "name": "Mainstreet",
+                "type": "artist",
+                "uri": "spotify:artist:25XJqeReVV38w0tR04GGBd"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+                },
+                "href": "https://api.spotify.com/v1/artists/0y7B2G0jNMGWyQJsOoRMUt",
+                "id": "0y7B2G0jNMGWyQJsOoRMUt",
+                "name": "Ajaxx",
+                "type": "artist",
+                "uri": "spotify:artist:0y7B2G0jNMGWyQJsOoRMUt"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318c79875042f87e746cc3c48",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0218c79875042f87e746cc3c48",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485118c79875042f87e746cc3c48",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.729,
+            "energy": 0.596,
+            "key": 0,
+            "loudness": -5.101,
+            "mode": 1,
+            "speechiness": 0.0607,
+            "acousticness": 0.463,
+            "instrumentalness": 0,
+            "liveness": 0.18,
+            "valence": 0.319,
+            "tempo": 117.918,
+            "type": "audio_features",
+            "id": "7HjZD0NPC1hzFpjUjo45GR",
+            "uri": "spotify:track:7HjZD0NPC1hzFpjUjo45GR",
+            "track_href": "https://api.spotify.com/v1/tracks/7HjZD0NPC1hzFpjUjo45GR",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HjZD0NPC1hzFpjUjo45GR",
+            "duration_ms": 214236,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF",
+        "id": "72g37RoelSnovZakG5MwnF",
+        "uri": "spotify:track:72g37RoelSnovZakG5MwnF",
+        "title": "Parada Louca",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+                },
+                "href": "https://api.spotify.com/v1/artists/0BHm7qbh3ENxvXzkQAG7MP",
+                "id": "0BHm7qbh3ENxvXzkQAG7MP",
+                "name": "Mari Fernandez",
+                "type": "artist",
+                "uri": "spotify:artist:0BHm7qbh3ENxvXzkQAG7MP"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+                },
+                "href": "https://api.spotify.com/v1/artists/4dnPDc045bVjibyATxVUOs",
+                "id": "4dnPDc045bVjibyATxVUOs",
+                "name": "Marcynho Sensa\u00e7\u00e3o",
+                "type": "artist",
+                "uri": "spotify:artist:4dnPDc045bVjibyATxVUOs"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737a2679c72a3e5626d1289f20",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027a2679c72a3e5626d1289f20",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517a2679c72a3e5626d1289f20",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.693,
+            "energy": 0.936,
+            "key": 7,
+            "loudness": -1.322,
+            "mode": 1,
+            "speechiness": 0.0524,
+            "acousticness": 0.302,
+            "instrumentalness": 0,
+            "liveness": 0.339,
+            "valence": 0.835,
+            "tempo": 166.034,
+            "type": "audio_features",
+            "id": "72g37RoelSnovZakG5MwnF",
+            "uri": "spotify:track:72g37RoelSnovZakG5MwnF",
+            "track_href": "https://api.spotify.com/v1/tracks/72g37RoelSnovZakG5MwnF",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/72g37RoelSnovZakG5MwnF",
+            "duration_ms": 179032,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp",
+        "id": "3YvE7uo4ffseBoJPh8IhHp",
+        "uri": "spotify:track:3YvE7uo4ffseBoJPh8IhHp",
+        "title": "Presepada",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+                },
+                "href": "https://api.spotify.com/v1/artists/1yR65psqiazQpeM79CcGh8",
+                "id": "1yR65psqiazQpeM79CcGh8",
+                "name": "Mar\u00edlia Mendon\u00e7a",
+                "type": "artist",
+                "uri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+                },
+                "href": "https://api.spotify.com/v1/artists/59jlthNnbmim5l9tmNA7se",
+                "id": "59jlthNnbmim5l9tmNA7se",
+                "name": "Maiara & Maraisa",
+                "type": "artist",
+                "uri": "spotify:artist:59jlthNnbmim5l9tmNA7se"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fac33ccdd1fdd1821a5a0aa1",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fac33ccdd1fdd1821a5a0aa1",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fac33ccdd1fdd1821a5a0aa1",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.606,
+            "energy": 0.733,
+            "key": 9,
+            "loudness": -4.46,
+            "mode": 1,
+            "speechiness": 0.175,
+            "acousticness": 0.368,
+            "instrumentalness": 0,
+            "liveness": 0.144,
+            "valence": 0.672,
+            "tempo": 166.199,
+            "type": "audio_features",
+            "id": "3YvE7uo4ffseBoJPh8IhHp",
+            "uri": "spotify:track:3YvE7uo4ffseBoJPh8IhHp",
+            "track_href": "https://api.spotify.com/v1/tracks/3YvE7uo4ffseBoJPh8IhHp",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YvE7uo4ffseBoJPh8IhHp",
+            "duration_ms": 196210,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r",
         "id": "0yL7K9MzC20uBesZTPY81r",
         "uri": "spotify:track:0yL7K9MzC20uBesZTPY81r",
@@ -2740,67 +2695,122 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp",
-        "id": "3YvE7uo4ffseBoJPh8IhHp",
-        "uri": "spotify:track:3YvE7uo4ffseBoJPh8IhHp",
-        "title": "Presepada",
+        "url": "https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU",
+        "id": "4grGI2vFnknrfmHT1JOVFU",
+        "uri": "spotify:track:4grGI2vFnknrfmHT1JOVFU",
+        "title": "Tes\u00e3o Da Madrugada - Ao Vivo",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+                    "spotify": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
                 },
-                "href": "https://api.spotify.com/v1/artists/1yR65psqiazQpeM79CcGh8",
-                "id": "1yR65psqiazQpeM79CcGh8",
-                "name": "Mar\u00edlia Mendon\u00e7a",
+                "href": "https://api.spotify.com/v1/artists/3FlCKtwOEYQQYyGVEbxG2Z",
+                "id": "3FlCKtwOEYQQYyGVEbxG2Z",
+                "name": "George Henrique & Rodrigo",
                 "type": "artist",
-                "uri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+                "uri": "spotify:artist:3FlCKtwOEYQQYyGVEbxG2Z"
             },
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+                    "spotify": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
                 },
-                "href": "https://api.spotify.com/v1/artists/59jlthNnbmim5l9tmNA7se",
-                "id": "59jlthNnbmim5l9tmNA7se",
-                "name": "Maiara & Maraisa",
+                "href": "https://api.spotify.com/v1/artists/7MiDcPa6UiV3In7lIM71IN",
+                "id": "7MiDcPa6UiV3In7lIM71IN",
+                "name": "Gusttavo Lima",
                 "type": "artist",
-                "uri": "spotify:artist:59jlthNnbmim5l9tmNA7se"
+                "uri": "spotify:artist:7MiDcPa6UiV3In7lIM71IN"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273fac33ccdd1fdd1821a5a0aa1",
+                "url": "https://i.scdn.co/image/ab67616d0000b273f7da65f61c28d4a3491c5ea7",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02fac33ccdd1fdd1821a5a0aa1",
+                "url": "https://i.scdn.co/image/ab67616d00001e02f7da65f61c28d4a3491c5ea7",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851fac33ccdd1fdd1821a5a0aa1",
+                "url": "https://i.scdn.co/image/ab67616d00004851f7da65f61c28d4a3491c5ea7",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.606,
-            "energy": 0.733,
-            "key": 9,
-            "loudness": -4.46,
+            "danceability": 0.736,
+            "energy": 0.798,
+            "key": 1,
+            "loudness": -2.63,
             "mode": 1,
-            "speechiness": 0.175,
-            "acousticness": 0.368,
+            "speechiness": 0.118,
+            "acousticness": 0.42,
             "instrumentalness": 0,
-            "liveness": 0.144,
-            "valence": 0.672,
-            "tempo": 166.199,
+            "liveness": 0.309,
+            "valence": 0.696,
+            "tempo": 123.804,
             "type": "audio_features",
-            "id": "3YvE7uo4ffseBoJPh8IhHp",
-            "uri": "spotify:track:3YvE7uo4ffseBoJPh8IhHp",
-            "track_href": "https://api.spotify.com/v1/tracks/3YvE7uo4ffseBoJPh8IhHp",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YvE7uo4ffseBoJPh8IhHp",
-            "duration_ms": 196210,
+            "id": "4grGI2vFnknrfmHT1JOVFU",
+            "uri": "spotify:track:4grGI2vFnknrfmHT1JOVFU",
+            "track_href": "https://api.spotify.com/v1/tracks/4grGI2vFnknrfmHT1JOVFU",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4grGI2vFnknrfmHT1JOVFU",
+            "duration_ms": 173376,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/546dFmvwFGBY7MJOkV5ctq",
+        "id": "546dFmvwFGBY7MJOkV5ctq",
+        "uri": "spotify:track:546dFmvwFGBY7MJOkV5ctq",
+        "title": "Todo Seu - Ao Vivo",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+                },
+                "href": "https://api.spotify.com/v1/artists/1elUiq4X7pxej6FRlrEzjM",
+                "id": "1elUiq4X7pxej6FRlrEzjM",
+                "name": "Jorge & Mateus",
+                "type": "artist",
+                "uri": "spotify:artist:1elUiq4X7pxej6FRlrEzjM"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ae869710c8625f1957bada66",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ae869710c8625f1957bada66",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ae869710c8625f1957bada66",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.632,
+            "energy": 0.817,
+            "key": 7,
+            "loudness": -5.028,
+            "mode": 1,
+            "speechiness": 0.122,
+            "acousticness": 0.3,
+            "instrumentalness": 0,
+            "liveness": 0.573,
+            "valence": 0.68,
+            "tempo": 151.993,
+            "type": "audio_features",
+            "id": "546dFmvwFGBY7MJOkV5ctq",
+            "uri": "spotify:track:546dFmvwFGBY7MJOkV5ctq",
+            "track_href": "https://api.spotify.com/v1/tracks/546dFmvwFGBY7MJOkV5ctq",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/546dFmvwFGBY7MJOkV5ctq",
+            "duration_ms": 171712,
             "time_signature": 4
         }
     },
@@ -2890,6 +2900,191 @@
         }
     },
     {
+        "url": "https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu",
+        "id": "2IJPcsIjReWb0v4EdNuwLu",
+        "uri": "spotify:track:2IJPcsIjReWb0v4EdNuwLu",
+        "title": "Assume a Gente - Ao Vivo",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH"
+                },
+                "href": "https://api.spotify.com/v1/artists/21WAvVROZ83oUvJwFTG2dH",
+                "id": "21WAvVROZ83oUvJwFTG2dH",
+                "name": "Jo\u00e3o Bosco e Gabriel",
+                "type": "artist",
+                "uri": "spotify:artist:21WAvVROZ83oUvJwFTG2dH"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+                },
+                "href": "https://api.spotify.com/v1/artists/3k68C6mNMJL6OaAdWeW2ZF",
+                "id": "3k68C6mNMJL6OaAdWeW2ZF",
+                "name": "Diego & Victor Hugo",
+                "type": "artist",
+                "uri": "spotify:artist:3k68C6mNMJL6OaAdWeW2ZF"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ff9ac38ea24dd9c34c9ce7f2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ff9ac38ea24dd9c34c9ce7f2",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ff9ac38ea24dd9c34c9ce7f2",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.683,
+            "energy": 0.657,
+            "key": 1,
+            "loudness": -4.637,
+            "mode": 1,
+            "speechiness": 0.0273,
+            "acousticness": 0.696,
+            "instrumentalness": 0,
+            "liveness": 0.559,
+            "valence": 0.642,
+            "tempo": 104.089,
+            "type": "audio_features",
+            "id": "2IJPcsIjReWb0v4EdNuwLu",
+            "uri": "spotify:track:2IJPcsIjReWb0v4EdNuwLu",
+            "track_href": "https://api.spotify.com/v1/tracks/2IJPcsIjReWb0v4EdNuwLu",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IJPcsIjReWb0v4EdNuwLu",
+            "duration_ms": 171525,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f",
+        "id": "0sPtV4stCHkFJB6GpoaZ1f",
+        "uri": "spotify:track:0sPtV4stCHkFJB6GpoaZ1f",
+        "title": "CAF\u00c9 DA MANH\u00c3 ;P",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+                },
+                "href": "https://api.spotify.com/v1/artists/4PzYKhC14sTJNEr0dzoo0d",
+                "id": "4PzYKhC14sTJNEr0dzoo0d",
+                "name": "Lu\u00edsa Sonza",
+                "type": "artist",
+                "uri": "spotify:artist:4PzYKhC14sTJNEr0dzoo0d"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+                },
+                "href": "https://api.spotify.com/v1/artists/3CDoRporvSjdzTrm99a3gi",
+                "id": "3CDoRporvSjdzTrm99a3gi",
+                "name": "LUDMILLA",
+                "type": "artist",
+                "uri": "spotify:artist:3CDoRporvSjdzTrm99a3gi"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27397376a1a61dd87e8d998cd9c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0297376a1a61dd87e8d998cd9c",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485197376a1a61dd87e8d998cd9c",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.758,
+            "energy": 0.809,
+            "key": 11,
+            "loudness": -4.065,
+            "mode": 0,
+            "speechiness": 0.0566,
+            "acousticness": 0.0219,
+            "instrumentalness": 0,
+            "liveness": 0.161,
+            "valence": 0.962,
+            "tempo": 151.097,
+            "type": "audio_features",
+            "id": "0sPtV4stCHkFJB6GpoaZ1f",
+            "uri": "spotify:track:0sPtV4stCHkFJB6GpoaZ1f",
+            "track_href": "https://api.spotify.com/v1/tracks/0sPtV4stCHkFJB6GpoaZ1f",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0sPtV4stCHkFJB6GpoaZ1f",
+            "duration_ms": 181174,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/3xt7v3bMNnQ8ie8RjhmkX2",
+        "id": "3xt7v3bMNnQ8ie8RjhmkX2",
+        "uri": "spotify:track:3xt7v3bMNnQ8ie8RjhmkX2",
+        "title": "Imagina A Sentada - Ao Vivo",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+                },
+                "href": "https://api.spotify.com/v1/artists/2Z0lRIqr997lIUiPtrpKCr",
+                "id": "2Z0lRIqr997lIUiPtrpKCr",
+                "name": "Matheus & Kauan",
+                "type": "artist",
+                "uri": "spotify:artist:2Z0lRIqr997lIUiPtrpKCr"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a145f0bbbb0ee0e29dfb4b4a",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a145f0bbbb0ee0e29dfb4b4a",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a145f0bbbb0ee0e29dfb4b4a",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.407,
+            "energy": 0.927,
+            "key": 9,
+            "loudness": -4.762,
+            "mode": 0,
+            "speechiness": 0.28,
+            "acousticness": 0.107,
+            "instrumentalness": 0,
+            "liveness": 0.568,
+            "valence": 0.375,
+            "tempo": 180.171,
+            "type": "audio_features",
+            "id": "3xt7v3bMNnQ8ie8RjhmkX2",
+            "uri": "spotify:track:3xt7v3bMNnQ8ie8RjhmkX2",
+            "track_href": "https://api.spotify.com/v1/tracks/3xt7v3bMNnQ8ie8RjhmkX2",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3xt7v3bMNnQ8ie8RjhmkX2",
+            "duration_ms": 171500,
+            "time_signature": 4
+        }
+    },
+    {
         "url": "https://open.spotify.com/track/1M5OUvKG03C0QtzvxRS4Zk",
         "id": "1M5OUvKG03C0QtzvxRS4Zk",
         "uri": "spotify:track:1M5OUvKG03C0QtzvxRS4Zk",
@@ -2965,327 +3160,132 @@
         }
     },
     {
-        "url": "https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu",
-        "id": "2IJPcsIjReWb0v4EdNuwLu",
-        "uri": "spotify:track:2IJPcsIjReWb0v4EdNuwLu",
-        "title": "Assume a Gente - Ao Vivo",
+        "url": "https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR",
+        "id": "5VTjBl3ddZEiG2LrH4VzyR",
+        "uri": "spotify:track:5VTjBl3ddZEiG2LrH4VzyR",
+        "title": "Toma Toma Vapo Vapo",
         "artists": [
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH"
+                    "spotify": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
                 },
-                "href": "https://api.spotify.com/v1/artists/21WAvVROZ83oUvJwFTG2dH",
-                "id": "21WAvVROZ83oUvJwFTG2dH",
-                "name": "Jo\u00e3o Bosco e Gabriel",
+                "href": "https://api.spotify.com/v1/artists/7cmuxPnXRJxwuYDHfbD8Eu",
+                "id": "7cmuxPnXRJxwuYDHfbD8Eu",
+                "name": "Z\u00e9 Felipe",
                 "type": "artist",
-                "uri": "spotify:artist:21WAvVROZ83oUvJwFTG2dH"
+                "uri": "spotify:artist:7cmuxPnXRJxwuYDHfbD8Eu"
             },
             {
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+                    "spotify": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
                 },
-                "href": "https://api.spotify.com/v1/artists/3k68C6mNMJL6OaAdWeW2ZF",
-                "id": "3k68C6mNMJL6OaAdWeW2ZF",
-                "name": "Diego & Victor Hugo",
+                "href": "https://api.spotify.com/v1/artists/3PZTvUS5fUUhV3EKAjqdZk",
+                "id": "3PZTvUS5fUUhV3EKAjqdZk",
+                "name": "Mc Danny",
                 "type": "artist",
-                "uri": "spotify:artist:3k68C6mNMJL6OaAdWeW2ZF"
+                "uri": "spotify:artist:3PZTvUS5fUUhV3EKAjqdZk"
             }
         ],
         "images": [
             {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ff9ac38ea24dd9c34c9ce7f2",
+                "url": "https://i.scdn.co/image/ab67616d0000b273d9df9d6a9af3328fae2ebeac",
                 "width": 640
             },
             {
                 "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ff9ac38ea24dd9c34c9ce7f2",
+                "url": "https://i.scdn.co/image/ab67616d00001e02d9df9d6a9af3328fae2ebeac",
                 "width": 300
             },
             {
                 "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ff9ac38ea24dd9c34c9ce7f2",
+                "url": "https://i.scdn.co/image/ab67616d00004851d9df9d6a9af3328fae2ebeac",
                 "width": 64
             }
         ],
         "features": {
-            "danceability": 0.683,
-            "energy": 0.657,
-            "key": 1,
-            "loudness": -4.637,
+            "danceability": 0.763,
+            "energy": 0.859,
+            "key": 4,
+            "loudness": -3.3,
+            "mode": 0,
+            "speechiness": 0.0479,
+            "acousticness": 0.322,
+            "instrumentalness": 0.0003,
+            "liveness": 0.117,
+            "valence": 0.813,
+            "tempo": 164.055,
+            "type": "audio_features",
+            "id": "5VTjBl3ddZEiG2LrH4VzyR",
+            "uri": "spotify:track:5VTjBl3ddZEiG2LrH4VzyR",
+            "track_href": "https://api.spotify.com/v1/tracks/5VTjBl3ddZEiG2LrH4VzyR",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5VTjBl3ddZEiG2LrH4VzyR",
+            "duration_ms": 156760,
+            "time_signature": 4
+        }
+    },
+    {
+        "url": "https://open.spotify.com/track/4dwBkgq4a4gEissxTY0YDT",
+        "id": "4dwBkgq4a4gEissxTY0YDT",
+        "uri": "spotify:track:4dwBkgq4a4gEissxTY0YDT",
+        "title": "C\u00ea T\u00e1 Preparada - Ao Vivo",
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
+                },
+                "href": "https://api.spotify.com/v1/artists/2T1se5h5FRkw7ZfR7yxdlm",
+                "id": "2T1se5h5FRkw7ZfR7yxdlm",
+                "name": "Tayrone",
+                "type": "artist",
+                "uri": "spotify:artist:2T1se5h5FRkw7ZfR7yxdlm"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+                },
+                "href": "https://api.spotify.com/v1/artists/1yR65psqiazQpeM79CcGh8",
+                "id": "1yR65psqiazQpeM79CcGh8",
+                "name": "Mar\u00edlia Mendon\u00e7a",
+                "type": "artist",
+                "uri": "spotify:artist:1yR65psqiazQpeM79CcGh8"
+            }
+        ],
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273132efbb9fc11de867b112d30",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02132efbb9fc11de867b112d30",
+                "width": 300
+            },
+            {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851132efbb9fc11de867b112d30",
+                "width": 64
+            }
+        ],
+        "features": {
+            "danceability": 0.782,
+            "energy": 0.845,
+            "key": 2,
+            "loudness": -3.731,
             "mode": 1,
-            "speechiness": 0.0273,
-            "acousticness": 0.696,
+            "speechiness": 0.0721,
+            "acousticness": 0.501,
             "instrumentalness": 0,
-            "liveness": 0.559,
-            "valence": 0.642,
-            "tempo": 104.089,
+            "liveness": 0.713,
+            "valence": 0.771,
+            "tempo": 121.95,
             "type": "audio_features",
-            "id": "2IJPcsIjReWb0v4EdNuwLu",
-            "uri": "spotify:track:2IJPcsIjReWb0v4EdNuwLu",
-            "track_href": "https://api.spotify.com/v1/tracks/2IJPcsIjReWb0v4EdNuwLu",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IJPcsIjReWb0v4EdNuwLu",
-            "duration_ms": 171525,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU",
-        "id": "4grGI2vFnknrfmHT1JOVFU",
-        "uri": "spotify:track:4grGI2vFnknrfmHT1JOVFU",
-        "title": "Tes\u00e3o Da Madrugada - Ao Vivo",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-                },
-                "href": "https://api.spotify.com/v1/artists/3FlCKtwOEYQQYyGVEbxG2Z",
-                "id": "3FlCKtwOEYQQYyGVEbxG2Z",
-                "name": "George Henrique & Rodrigo",
-                "type": "artist",
-                "uri": "spotify:artist:3FlCKtwOEYQQYyGVEbxG2Z"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-                },
-                "href": "https://api.spotify.com/v1/artists/7MiDcPa6UiV3In7lIM71IN",
-                "id": "7MiDcPa6UiV3In7lIM71IN",
-                "name": "Gusttavo Lima",
-                "type": "artist",
-                "uri": "spotify:artist:7MiDcPa6UiV3In7lIM71IN"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f7da65f61c28d4a3491c5ea7",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f7da65f61c28d4a3491c5ea7",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f7da65f61c28d4a3491c5ea7",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.736,
-            "energy": 0.798,
-            "key": 1,
-            "loudness": -2.63,
-            "mode": 1,
-            "speechiness": 0.118,
-            "acousticness": 0.42,
-            "instrumentalness": 0,
-            "liveness": 0.309,
-            "valence": 0.696,
-            "tempo": 123.804,
-            "type": "audio_features",
-            "id": "4grGI2vFnknrfmHT1JOVFU",
-            "uri": "spotify:track:4grGI2vFnknrfmHT1JOVFU",
-            "track_href": "https://api.spotify.com/v1/tracks/4grGI2vFnknrfmHT1JOVFU",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4grGI2vFnknrfmHT1JOVFU",
-            "duration_ms": 173376,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/3xt7v3bMNnQ8ie8RjhmkX2",
-        "id": "3xt7v3bMNnQ8ie8RjhmkX2",
-        "uri": "spotify:track:3xt7v3bMNnQ8ie8RjhmkX2",
-        "title": "Imagina A Sentada - Ao Vivo",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-                },
-                "href": "https://api.spotify.com/v1/artists/2Z0lRIqr997lIUiPtrpKCr",
-                "id": "2Z0lRIqr997lIUiPtrpKCr",
-                "name": "Matheus & Kauan",
-                "type": "artist",
-                "uri": "spotify:artist:2Z0lRIqr997lIUiPtrpKCr"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a145f0bbbb0ee0e29dfb4b4a",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02a145f0bbbb0ee0e29dfb4b4a",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851a145f0bbbb0ee0e29dfb4b4a",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.407,
-            "energy": 0.927,
-            "key": 9,
-            "loudness": -4.762,
-            "mode": 0,
-            "speechiness": 0.28,
-            "acousticness": 0.107,
-            "instrumentalness": 0,
-            "liveness": 0.568,
-            "valence": 0.375,
-            "tempo": 180.171,
-            "type": "audio_features",
-            "id": "3xt7v3bMNnQ8ie8RjhmkX2",
-            "uri": "spotify:track:3xt7v3bMNnQ8ie8RjhmkX2",
-            "track_href": "https://api.spotify.com/v1/tracks/3xt7v3bMNnQ8ie8RjhmkX2",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3xt7v3bMNnQ8ie8RjhmkX2",
-            "duration_ms": 171500,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f",
-        "id": "0sPtV4stCHkFJB6GpoaZ1f",
-        "uri": "spotify:track:0sPtV4stCHkFJB6GpoaZ1f",
-        "title": "CAF\u00c9 DA MANH\u00c3 ;P",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-                },
-                "href": "https://api.spotify.com/v1/artists/4PzYKhC14sTJNEr0dzoo0d",
-                "id": "4PzYKhC14sTJNEr0dzoo0d",
-                "name": "Lu\u00edsa Sonza",
-                "type": "artist",
-                "uri": "spotify:artist:4PzYKhC14sTJNEr0dzoo0d"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-                },
-                "href": "https://api.spotify.com/v1/artists/3CDoRporvSjdzTrm99a3gi",
-                "id": "3CDoRporvSjdzTrm99a3gi",
-                "name": "LUDMILLA",
-                "type": "artist",
-                "uri": "spotify:artist:3CDoRporvSjdzTrm99a3gi"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27397376a1a61dd87e8d998cd9c",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e0297376a1a61dd87e8d998cd9c",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d0000485197376a1a61dd87e8d998cd9c",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.758,
-            "energy": 0.809,
-            "key": 11,
-            "loudness": -4.065,
-            "mode": 0,
-            "speechiness": 0.0566,
-            "acousticness": 0.0219,
-            "instrumentalness": 0,
-            "liveness": 0.161,
-            "valence": 0.962,
-            "tempo": 151.097,
-            "type": "audio_features",
-            "id": "0sPtV4stCHkFJB6GpoaZ1f",
-            "uri": "spotify:track:0sPtV4stCHkFJB6GpoaZ1f",
-            "track_href": "https://api.spotify.com/v1/tracks/0sPtV4stCHkFJB6GpoaZ1f",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0sPtV4stCHkFJB6GpoaZ1f",
-            "duration_ms": 181174,
-            "time_signature": 4
-        }
-    },
-    {
-        "url": "https://open.spotify.com/track/45VwwcqkVl61khE9JT2OxK",
-        "id": "45VwwcqkVl61khE9JT2OxK",
-        "uri": "spotify:track:45VwwcqkVl61khE9JT2OxK",
-        "title": "Baile da Serra",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
-                },
-                "href": "https://api.spotify.com/v1/artists/0GGDntDaQgJVknzJlXD1Nd",
-                "id": "0GGDntDaQgJVknzJlXD1Nd",
-                "name": "Bra\u00e3o",
-                "type": "artist",
-                "uri": "spotify:artist:0GGDntDaQgJVknzJlXD1Nd"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE"
-                },
-                "href": "https://api.spotify.com/v1/artists/048eLqPGxqWk7PblwFmXgE",
-                "id": "048eLqPGxqWk7PblwFmXgE",
-                "name": "LIT UP",
-                "type": "artist",
-                "uri": "spotify:artist:048eLqPGxqWk7PblwFmXgE"
-            },
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
-                },
-                "href": "https://api.spotify.com/v1/artists/6IcnhoOZCRfWT8viBrredL",
-                "id": "6IcnhoOZCRfWT8viBrredL",
-                "name": "Dj Nattan",
-                "type": "artist",
-                "uri": "spotify:artist:6IcnhoOZCRfWT8viBrredL"
-            }
-        ],
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f56b18d313340c2ac3c68bba",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f56b18d313340c2ac3c68bba",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f56b18d313340c2ac3c68bba",
-                "width": 64
-            }
-        ],
-        "features": {
-            "danceability": 0.801,
-            "energy": 0.623,
-            "key": 7,
-            "loudness": -7.886,
-            "mode": 0,
-            "speechiness": 0.362,
-            "acousticness": 0.496,
-            "instrumentalness": 0,
-            "liveness": 0.0923,
-            "valence": 0.622,
-            "tempo": 109.797,
-            "type": "audio_features",
-            "id": "45VwwcqkVl61khE9JT2OxK",
-            "uri": "spotify:track:45VwwcqkVl61khE9JT2OxK",
-            "track_href": "https://api.spotify.com/v1/tracks/45VwwcqkVl61khE9JT2OxK",
-            "analysis_url": "https://api.spotify.com/v1/audio-analysis/45VwwcqkVl61khE9JT2OxK",
-            "duration_ms": 205058,
+            "id": "4dwBkgq4a4gEissxTY0YDT",
+            "uri": "spotify:track:4dwBkgq4a4gEissxTY0YDT",
+            "track_href": "https://api.spotify.com/v1/tracks/4dwBkgq4a4gEissxTY0YDT",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4dwBkgq4a4gEissxTY0YDT",
+            "duration_ms": 213006,
             "time_signature": 4
         }
     }
